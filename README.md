@@ -27,4 +27,12 @@ A collection of DSA problems that made me question my life choices. Includes my 
 |  |
 | ------- |
 | [3129-find-all-possible-stable-binary-arrays-i](https://github.com/jxt1nn/dsa-log/tree/master/3129-find-all-possible-stable-binary-arrays-i) |
+## Array
+|  |
+| ------- |
+| [0031-next-permutation](https://github.com/jxt1nn/dsa-log/tree/master/0031-next-permutation) |
+## Two Pointers
+|  |
+| ------- |
+| [0031-next-permutation](https://github.com/jxt1nn/dsa-log/tree/master/0031-next-permutation) |
 <!---LeetCode Topics End-->
