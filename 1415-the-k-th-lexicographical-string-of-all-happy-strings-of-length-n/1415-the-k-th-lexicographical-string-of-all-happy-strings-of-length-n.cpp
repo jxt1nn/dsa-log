@@ -71,18 +71,13 @@
 
     this would be a void function..
 
-**/
-class Solution {
-public:
-    void solve(int n, string str, char prev, vector<string>& ans){
-        str += prev;
 
-        if(n == 0){
-            ans.push_back(str);
-            return;
-        }
+    done but why we can write much clean code 
 
-        if(prev == 'a'){
+    how.......!
+
+    so we use 
+         if(prev == 'a'){
             solve(n-1,str,'b',ans);
             solve(n-1,str,'c',ans);
         }
@@ -94,18 +89,92 @@ public:
             solve(n-1,str,'a',ans);
             solve(n-1,str,'b',ans);
         }
+
+    instead of this we can use  loop
+
+    for(auto ch : {'a','b','c'}){
+        if(ch != prev){
+            solve(n-1,str,ch,ans);
+        }
+    }
+
+
+    ANDDDDDDDDDDDDDDDDDDDDDDD
+
+    instead of using 3 recusion calls in main function
+
+        solve(n-1,"",'a',ans);
+        solve(n-1,"",'b',ans);
+        solve(n-1,"",'c',ans);
+
+    do this 
+         solve(n, "", '#', ans);
+
+    send prev as #
+    so our loops run 3 times at first itration 
+**/
+class Solution {
+public:
+
+    void solve(int n, string str, char prev, vector<string>& ans){
+
+        if(str.length() == n){
+            ans.push_back(str);
+            return;
+        }
+
+        for(char ch : {'a','b','c'}){
+            if(ch != prev){
+                solve(n, str + ch, ch, ans);
+            }
+        }
     }
 
     string getHappyString(int n, int k) {
 
         vector<string> ans;
 
-        solve(n-1,"",'a',ans);
-        solve(n-1,"",'b',ans);
-        solve(n-1,"",'c',ans);
+        solve(n, "", '#', ans);
 
         if(k > ans.size()) return "";
 
         return ans[k-1];
     }
 };
+// class Solution {
+// public:
+//     void solve(int n, string str, char prev, vector<string>& ans){
+//         str += prev;
+
+//         if(n == 0){
+//             ans.push_back(str);
+//             return;
+//         }
+
+//         if(prev == 'a'){
+//             solve(n-1,str,'b',ans);
+//             solve(n-1,str,'c',ans);
+//         }
+//         else if(prev == 'b'){
+//             solve(n-1,str,'a',ans);
+//             solve(n-1,str,'c',ans);
+//         }
+//         else{
+//             solve(n-1,str,'a',ans);
+//             solve(n-1,str,'b',ans);
+//         }
+//     }
+
+//     string getHappyString(int n, int k) {
+
+//         vector<string> ans;
+
+//         solve(n-1,"",'a',ans);
+//         solve(n-1,"",'b',ans);
+//         solve(n-1,"",'c',ans);
+
+//         if(k > ans.size()) return "";
+
+//         return ans[k-1];
+//     }
+// };
