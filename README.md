@@ -29,6 +29,7 @@ A collection of DSA problems that made me question my life choices. Includes my 
 |  |
 | ------- |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/jxt1nn/dsa-log/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
+| [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/jxt1nn/dsa-log/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 | [3129-find-all-possible-stable-binary-arrays-i](https://github.com/jxt1nn/dsa-log/tree/master/3129-find-all-possible-stable-binary-arrays-i) |
 ## Array
 |  |
@@ -40,6 +41,7 @@ A collection of DSA problems that made me question my life choices. Includes my 
 | [1727-largest-submatrix-with-rearrangements](https://github.com/jxt1nn/dsa-log/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/jxt1nn/dsa-log/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/jxt1nn/dsa-log/tree/master/2300-successful-pairs-of-spells-and-potions) |
+| [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/jxt1nn/dsa-log/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/jxt1nn/dsa-log/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 ## Two Pointers
 |  |
@@ -102,6 +104,7 @@ A collection of DSA problems that made me question my life choices. Includes my 
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/jxt1nn/dsa-log/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/jxt1nn/dsa-log/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/jxt1nn/dsa-log/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
+| [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/jxt1nn/dsa-log/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 ## Stack
 |  |
 | ------- |
