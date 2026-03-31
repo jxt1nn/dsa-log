@@ -26,6 +26,15 @@
     👉 You are safe, now expand your reach:
 
     maxReach = max(maxReach, i + nums[i]);
+
+    Imagine:
+
+    You are walking on a road
+    Each step gives you a new boost forward
+
+    You don’t choose a path—you just keep updating:
+
+    “How far can I go in total?”
 */
 class Solution {
 public:
