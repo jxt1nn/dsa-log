@@ -51,6 +51,7 @@ A collection of DSA problems that made me question my life choices. Includes my 
 | [1727-largest-submatrix-with-rearrangements](https://github.com/jxt1nn/dsa-log/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/jxt1nn/dsa-log/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/jxt1nn/dsa-log/tree/master/2300-successful-pairs-of-spells-and-potions) |
+| [2751-robot-collisions](https://github.com/jxt1nn/dsa-log/tree/master/2751-robot-collisions) |
 | [2906-construct-product-matrix](https://github.com/jxt1nn/dsa-log/tree/master/2906-construct-product-matrix) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/jxt1nn/dsa-log/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/jxt1nn/dsa-log/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
@@ -76,6 +77,7 @@ A collection of DSA problems that made me question my life choices. Includes my 
 | [1727-largest-submatrix-with-rearrangements](https://github.com/jxt1nn/dsa-log/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/jxt1nn/dsa-log/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/jxt1nn/dsa-log/tree/master/2300-successful-pairs-of-spells-and-potions) |
+| [2751-robot-collisions](https://github.com/jxt1nn/dsa-log/tree/master/2751-robot-collisions) |
 ## Math
 |  |
 | ------- |
@@ -139,6 +141,7 @@ A collection of DSA problems that made me question my life choices. Includes my 
 | ------- |
 | [0085-maximal-rectangle](https://github.com/jxt1nn/dsa-log/tree/master/0085-maximal-rectangle) |
 | [0678-valid-parenthesis-string](https://github.com/jxt1nn/dsa-log/tree/master/0678-valid-parenthesis-string) |
+| [2751-robot-collisions](https://github.com/jxt1nn/dsa-log/tree/master/2751-robot-collisions) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -150,6 +153,7 @@ A collection of DSA problems that made me question my life choices. Includes my 
 ## Simulation
 |  |
 | ------- |
+| [2751-robot-collisions](https://github.com/jxt1nn/dsa-log/tree/master/2751-robot-collisions) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/jxt1nn/dsa-log/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 ## Breadth-First Search
 |  |
