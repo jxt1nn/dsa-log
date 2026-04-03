@@ -121,6 +121,7 @@ A collection of DSA problems that made me question my life choices. Includes my 
 ## Design
 |  |
 | ------- |
+| [0146-lru-cache](https://github.com/jxt1nn/dsa-log/tree/master/0146-lru-cache) |
 | [1622-fancy-sequence](https://github.com/jxt1nn/dsa-log/tree/master/1622-fancy-sequence) |
 ## Segment Tree
 |  |
@@ -166,4 +167,16 @@ A collection of DSA problems that made me question my life choices. Includes my 
 |  |
 | ------- |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/jxt1nn/dsa-log/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
+## Hash Table
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/jxt1nn/dsa-log/tree/master/0146-lru-cache) |
+## Linked List
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/jxt1nn/dsa-log/tree/master/0146-lru-cache) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/jxt1nn/dsa-log/tree/master/0146-lru-cache) |
 <!---LeetCode Topics End-->
