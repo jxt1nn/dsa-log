@@ -53,12 +53,13 @@
         bcoz our array is already sorted so
         curr.start is always same either they overlap or not !!!!!!!
 
-    
+
     🔵 No overlap
         next.start > curr.end
     👉 Push curr to answer
     👉 Start new interval
 
+    Sort → Keep current → Expand if overlap → Push when break
 */
 class Solution {
 public:
