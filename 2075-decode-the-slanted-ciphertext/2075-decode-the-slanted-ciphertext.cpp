@@ -87,7 +87,7 @@ public:
         
         vector<vector<char>> mat(rows, vector<char>(cols));
         
-        // Fill matrix row-wise
+        // fill matrix row-wise
         int idx = 0;
         for (int i = 0; i < rows; i++) {
             for (int j = 0; j < cols; j++) {
@@ -97,7 +97,7 @@ public:
         
         string result = "";
         
-        // Read diagonally
+        // read diagonally
         for (int start = 0; start < cols; start++) {
             int i = 0, j = start;
             while (i < rows && j < cols) {
@@ -107,7 +107,7 @@ public:
             }
         }
         
-        // Remove trailing spaces
+        // remove trailing spaces
         while (!result.empty() && result.back() == ' ') {
             result.pop_back();
         }
