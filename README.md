@@ -46,6 +46,7 @@ A collection of DSA problems that made me question my life choices. Includes my 
 | [0031-next-permutation](https://github.com/jxt1nn/dsa-log/tree/master/0031-next-permutation) |
 | [0045-jump-game-ii](https://github.com/jxt1nn/dsa-log/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/jxt1nn/dsa-log/tree/master/0055-jump-game) |
+| [0056-merge-intervals](https://github.com/jxt1nn/dsa-log/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/jxt1nn/dsa-log/tree/master/0057-insert-interval) |
 | [0085-maximal-rectangle](https://github.com/jxt1nn/dsa-log/tree/master/0085-maximal-rectangle) |
 | [0322-coin-change](https://github.com/jxt1nn/dsa-log/tree/master/0322-coin-change) |
@@ -81,6 +82,7 @@ A collection of DSA problems that made me question my life choices. Includes my 
 ## Sorting
 |  |
 | ------- |
+| [0056-merge-intervals](https://github.com/jxt1nn/dsa-log/tree/master/0056-merge-intervals) |
 | [0455-assign-cookies](https://github.com/jxt1nn/dsa-log/tree/master/0455-assign-cookies) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/jxt1nn/dsa-log/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/jxt1nn/dsa-log/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
