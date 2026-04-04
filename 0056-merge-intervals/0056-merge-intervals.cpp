@@ -48,7 +48,12 @@
         next.start <= curr.end
     👉 Merge:
         curr.end = max(curr.end, next.end)
+    
+    we dont need to compute curr.start  
+        bcoz our array is already sorted so
+        curr.start is always same either they overlap or not !!!!!!!
 
+    
     🔵 No overlap
         next.start > curr.end
     👉 Push curr to answer
