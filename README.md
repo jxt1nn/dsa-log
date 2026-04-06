@@ -52,6 +52,7 @@ A collection of DSA problems that made me question my life choices. Includes my 
 | [0322-coin-change](https://github.com/jxt1nn/dsa-log/tree/master/0322-coin-change) |
 | [0455-assign-cookies](https://github.com/jxt1nn/dsa-log/tree/master/0455-assign-cookies) |
 | [0860-lemonade-change](https://github.com/jxt1nn/dsa-log/tree/master/0860-lemonade-change) |
+| [0874-walking-robot-simulation](https://github.com/jxt1nn/dsa-log/tree/master/0874-walking-robot-simulation) |
 | [0877-stone-game](https://github.com/jxt1nn/dsa-log/tree/master/0877-stone-game) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/jxt1nn/dsa-log/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/jxt1nn/dsa-log/tree/master/1727-largest-submatrix-with-rearrangements) |
@@ -170,6 +171,7 @@ A collection of DSA problems that made me question my life choices. Includes my 
 |  |
 | ------- |
 | [0657-robot-return-to-origin](https://github.com/jxt1nn/dsa-log/tree/master/0657-robot-return-to-origin) |
+| [0874-walking-robot-simulation](https://github.com/jxt1nn/dsa-log/tree/master/0874-walking-robot-simulation) |
 | [2075-decode-the-slanted-ciphertext](https://github.com/jxt1nn/dsa-log/tree/master/2075-decode-the-slanted-ciphertext) |
 | [2751-robot-collisions](https://github.com/jxt1nn/dsa-log/tree/master/2751-robot-collisions) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/jxt1nn/dsa-log/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
@@ -185,6 +187,7 @@ A collection of DSA problems that made me question my life choices. Includes my 
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/jxt1nn/dsa-log/tree/master/0146-lru-cache) |
+| [0874-walking-robot-simulation](https://github.com/jxt1nn/dsa-log/tree/master/0874-walking-robot-simulation) |
 ## Linked List
 |  |
 | ------- |
