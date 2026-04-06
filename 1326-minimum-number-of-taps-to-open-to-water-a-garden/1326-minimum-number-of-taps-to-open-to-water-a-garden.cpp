@@ -138,9 +138,20 @@ now how to code this up????????????
 *now apply jump game 2 logic on this maxreach array 
 
 
+here is a thing we can combine this 3 steps 1 in one go :
+
+            *comvert it ranges into interavls...
+            *now clmap this interval array 
+                at the same time make maxReach array 
 
 
+all of this in one go..........
 
+for (int i = 0; i <= n; i++) {
+            int l = max(0, i - ranges[i]);
+            int r = min(n, i + ranges[i]);
+            maxReach[l] = max(maxReach[l], r);
+    }
 
 
 
@@ -168,6 +179,15 @@ public:
 
             maxReach[l] = max(maxReach[l],r);
         }
+
+        // Build maxReach directly    
+
+        // for (int i = 0; i <= n; i++) {
+        //     int l = max(0, i - ranges[i]);
+        //     int r = min(n, i + ranges[i]);
+        //     maxReach[l] = max(maxReach[l], r);
+        // }
+
 
         int jump = 0;
         int farthest  = 0;
