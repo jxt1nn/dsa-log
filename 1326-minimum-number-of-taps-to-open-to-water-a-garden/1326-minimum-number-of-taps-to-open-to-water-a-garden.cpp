@@ -155,9 +155,6 @@ for (int i = 0; i <= n; i++) {
 
 
 
-
-
-
 */
 class Solution {
 public:
@@ -206,6 +203,6 @@ public:
             }
 
         }
-        return jump;
+        return -1;
     }
 };
