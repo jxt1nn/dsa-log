@@ -135,55 +135,71 @@ dx array, dy array
             if(NOT inBOUNDARY) {
                 dir = (dir + 1) % 4; // turn left
                 recalculate nx and ny
-            } 
+            }
                 x = nx;
                 y = ny;
             }
         }
 
+    my code is only problem :
+
+    when we hit a boundary we doesnt re calculate the nx and ny
+
+    bocz num-- every time so we have to update them in eaxh loop itration 
+    
 */
 class Robot {
 public:
-    int x = 0, y = 0, dir = 0;
-    int width, height;
+    int w, h;
+    int x, y;
+    int dir; // 0 = East, 1 = North, 2 = West, 3 = South
     int perimeter;
-
-    vector<int> dx = {1, 0, -1, 0};
-    vector<int> dy = {0, -1, 0, 1};
+    
+    vector<pair<int,int>> directions = {
+        {1, 0},   // East
+        {0, 1},   // North
+        {-1, 0},  // West
+        {0, -1}   // South
+    };
+    
+    vector<string> dirNames = {"East", "North", "West", "South"};
 
     Robot(int width, int height) {
-        this->width = width;
-        this->height = height;
-        perimeter = 2 * (width + height - 2);
+        w = width;
+        h = height;
+        x = 0;
+        y = 0;
+        dir = 0;
+        perimeter = 2 * (w + h - 2);
     }
     
     void step(int num) {
-        int k = num % perimeter;
-        if(k == 0 && num > 0) k = perimeter;
+        if (perimeter == 0) return;
 
-        while(k--) {
-            int nx = x + dx[dir];
-            int ny = y + dy[dir];
+        num %= perimeter;
+        if (num == 0) num = perimeter;
 
-            if(nx < 0 || nx >= width || ny < 0 || ny >= height) {
-                dir = (dir + 3) % 4;
-                nx = x + dx[dir];
-                ny = y + dy[dir];
-            } 
-                x = nx;
-                y = ny;
+        while (num--) {
+            int nx = x + directions[dir].first;
+            int ny = y + directions[dir].second;
+            // check boundary
+            if (nx < 0 || nx >= w || ny < 0 || ny >= h) {
+                dir = (dir + 1) % 4; // turn CCW
+                nx = x + directions[dir].first;
+                ny = y + directions[dir].second;
             }
+
+            x = nx;
+            y = ny;
         }
+    }
     
     vector<int> getPos() {
         return {x, y};
     }
     
     string getDir() {
-        if(dir == 0) return "East";
-        if(dir == 1) return "South";
-        if(dir == 2) return "West";
-        return "North";
+        return dirNames[dir];
     }
 };
 /**
