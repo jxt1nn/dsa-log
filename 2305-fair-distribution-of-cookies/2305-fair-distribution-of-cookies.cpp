@@ -109,6 +109,7 @@ if current child load < ans:
 **/
 class Solution {
 public:
+    // GLOBAL MAX
     int ans = INT_MAX;
 
     void solve(int index, vector<int>& cookies, vector<int>& children) {
