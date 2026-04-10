@@ -74,6 +74,7 @@ A collection of DSA problems that made me question my life choices. Includes my 
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/jxt1nn/dsa-log/tree/master/3653-xor-after-range-multiplication-queries-i) |
 | [3655-xor-after-range-multiplication-queries-ii](https://github.com/jxt1nn/dsa-log/tree/master/3655-xor-after-range-multiplication-queries-ii) |
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/jxt1nn/dsa-log/tree/master/3661-maximum-walls-destroyed-by-robots) |
+| [3740-minimum-distance-between-three-equal-elements-i](https://github.com/jxt1nn/dsa-log/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 ## Two Pointers
 |  |
 | ------- |
@@ -208,6 +209,7 @@ A collection of DSA problems that made me question my life choices. Includes my 
 | [0146-lru-cache](https://github.com/jxt1nn/dsa-log/tree/master/0146-lru-cache) |
 | [0763-partition-labels](https://github.com/jxt1nn/dsa-log/tree/master/0763-partition-labels) |
 | [0874-walking-robot-simulation](https://github.com/jxt1nn/dsa-log/tree/master/0874-walking-robot-simulation) |
+| [3740-minimum-distance-between-three-equal-elements-i](https://github.com/jxt1nn/dsa-log/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 ## Linked List
 |  |
 | ------- |
