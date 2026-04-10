@@ -122,7 +122,7 @@ public:
             return;
         }
 
-        // 🌳 Try assigning current bag to each child
+        // assigning current bag to each child
         for (int i = 0; i < children.size(); i++) {
 
             // assign
@@ -134,7 +134,7 @@ public:
 
             // (backtrack)
             children[i] -= cookies[index];
-            
+
         }
     }
 
