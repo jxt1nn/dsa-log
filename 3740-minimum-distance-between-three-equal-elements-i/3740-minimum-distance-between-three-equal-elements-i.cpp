@@ -126,32 +126,21 @@ They are farther apart → distance increases
 class Solution {
 public:
     int minimumDistance(vector<int>& nums) {
-        unordered_map<int, vector<int>> mp;
-
-        // store indices
-        for (int i = 0; i < nums.size(); i++) {
-            mp[nums[i]].push_back(i);
-        }
-
+        int n = nums.size();
         int ans = INT_MAX;
 
-        //process each value
-        for (auto &it : mp) {
-            vector<int> &idx = it.second;
+        // Try all triplets
+        for (int i = 0; i < n; i++) {
+            for (int j = i + 1; j < n; j++) {
+                for (int k = j + 1; k < n; k++) {
 
-            // need at least 3 indices
-            if (idx.size() < 3) continue;
+                    // Check condition
+                    if (nums[i] == nums[j] && nums[j] == nums[k]) {
 
-            // check consecutive triplets
-            for (int i = 0; i + 2 < idx.size(); i++) {
-                int a = idx[i];
-                int b = idx[i + 1];
-                int c = idx[i + 2];
-
-                int dist = 2 * (c - a);  // optimized
-                // int dist = abs(a - b) + abs(b - c) + abs(c - a);
-
-                ans = min(ans, dist);
+                        int dist = abs(i - j) + abs(j - k) + abs(k - i);
+                        ans = min(ans, dist);
+                    }
+                }
             }
         }
 
