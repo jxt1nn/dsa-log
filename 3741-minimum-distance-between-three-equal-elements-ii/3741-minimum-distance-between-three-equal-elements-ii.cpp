@@ -148,8 +148,10 @@ public:
                 int b = idx[i + 1];
                 int c = idx[i + 2];
 
-                // int dist = 2 * (c - a);  // optimized
-                int dist = abs(a - b) + abs(b - c) + abs(c - a);
+                int dist = 2 * (c - a);  // optimized
+
+                //this works too
+                // int dist = abs(a - b) + abs(b - c) + abs(c - a);
 
                 ans = min(ans, dist);
             }
