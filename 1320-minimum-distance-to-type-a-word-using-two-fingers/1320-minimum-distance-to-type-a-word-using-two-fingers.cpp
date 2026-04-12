@@ -1,5 +1,13 @@
 /*
 
+future HINTS :
+
+    “Minimum total distance” -> Greedy OR DP
+    “You have TWO fingers” -> Recursion
+    “You cannot reorder characters” -> sorting / greedy by rearrangement ❌
+    “which finger types each character”
+        At each index → I have 2 choices
+
 English uppercase letter is located at some coordinate.
 
 the letter 'A' is located at coordinate (0, 0),
