@@ -12,6 +12,7 @@ A collection of DSA problems that made me question my life choices. Includes my 
 | [0322-coin-change](https://github.com/jxt1nn/dsa-log/tree/master/0322-coin-change) |
 | [0678-valid-parenthesis-string](https://github.com/jxt1nn/dsa-log/tree/master/0678-valid-parenthesis-string) |
 | [0877-stone-game](https://github.com/jxt1nn/dsa-log/tree/master/0877-stone-game) |
+| [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/jxt1nn/dsa-log/tree/master/1320-minimum-distance-to-type-a-word-using-two-fingers) |
 | [1326-minimum-number-of-taps-to-open-to-water-a-garden](https://github.com/jxt1nn/dsa-log/tree/master/1326-minimum-number-of-taps-to-open-to-water-a-garden) |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/jxt1nn/dsa-log/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/jxt1nn/dsa-log/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
@@ -142,6 +143,7 @@ A collection of DSA problems that made me question my life choices. Includes my 
 | [0657-robot-return-to-origin](https://github.com/jxt1nn/dsa-log/tree/master/0657-robot-return-to-origin) |
 | [0678-valid-parenthesis-string](https://github.com/jxt1nn/dsa-log/tree/master/0678-valid-parenthesis-string) |
 | [0763-partition-labels](https://github.com/jxt1nn/dsa-log/tree/master/0763-partition-labels) |
+| [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/jxt1nn/dsa-log/tree/master/1320-minimum-distance-to-type-a-word-using-two-fingers) |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/jxt1nn/dsa-log/tree/master/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/jxt1nn/dsa-log/tree/master/1758-minimum-changes-to-make-alternating-binary-string) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/jxt1nn/dsa-log/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
