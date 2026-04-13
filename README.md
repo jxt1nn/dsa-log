@@ -49,6 +49,7 @@ A collection of DSA problems that made me question my life choices. Includes my 
 | ------- |
 | [0031-next-permutation](https://github.com/jxt1nn/dsa-log/tree/master/0031-next-permutation) |
 | [0045-jump-game-ii](https://github.com/jxt1nn/dsa-log/tree/master/0045-jump-game-ii) |
+| [0046-permutations](https://github.com/jxt1nn/dsa-log/tree/master/0046-permutations) |
 | [0055-jump-game](https://github.com/jxt1nn/dsa-log/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/jxt1nn/dsa-log/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/jxt1nn/dsa-log/tree/master/0057-insert-interval) |
@@ -152,6 +153,7 @@ A collection of DSA problems that made me question my life choices. Includes my 
 ## Backtracking
 |  |
 | ------- |
+| [0046-permutations](https://github.com/jxt1nn/dsa-log/tree/master/0046-permutations) |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/jxt1nn/dsa-log/tree/master/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [2305-fair-distribution-of-cookies](https://github.com/jxt1nn/dsa-log/tree/master/2305-fair-distribution-of-cookies) |
 ## Design
