@@ -210,6 +210,7 @@ A collection of DSA problems that made me question my life choices. Includes my 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/jxt1nn/dsa-log/tree/master/0100-same-tree) |
 | [0322-coin-change](https://github.com/jxt1nn/dsa-log/tree/master/0322-coin-change) |
 ## Sliding Window
 |  |
@@ -244,4 +245,16 @@ A collection of DSA problems that made me question my life choices. Includes my 
 |  |
 | ------- |
 | [2305-fair-distribution-of-cookies](https://github.com/jxt1nn/dsa-log/tree/master/2305-fair-distribution-of-cookies) |
+## Tree
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/jxt1nn/dsa-log/tree/master/0100-same-tree) |
+## Depth-First Search
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/jxt1nn/dsa-log/tree/master/0100-same-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/jxt1nn/dsa-log/tree/master/0100-same-tree) |
 <!---LeetCode Topics End-->
