@@ -211,6 +211,7 @@ A collection of DSA problems that made me question my life choices. Includes my 
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/jxt1nn/dsa-log/tree/master/0100-same-tree) |
+| [0104-maximum-depth-of-binary-tree](https://github.com/jxt1nn/dsa-log/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0322-coin-change](https://github.com/jxt1nn/dsa-log/tree/master/0322-coin-change) |
 ## Sliding Window
 |  |
@@ -249,15 +250,18 @@ A collection of DSA problems that made me question my life choices. Includes my 
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/jxt1nn/dsa-log/tree/master/0100-same-tree) |
+| [0104-maximum-depth-of-binary-tree](https://github.com/jxt1nn/dsa-log/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/jxt1nn/dsa-log/tree/master/0543-diameter-of-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/jxt1nn/dsa-log/tree/master/0100-same-tree) |
+| [0104-maximum-depth-of-binary-tree](https://github.com/jxt1nn/dsa-log/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/jxt1nn/dsa-log/tree/master/0543-diameter-of-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/jxt1nn/dsa-log/tree/master/0100-same-tree) |
+| [0104-maximum-depth-of-binary-tree](https://github.com/jxt1nn/dsa-log/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/jxt1nn/dsa-log/tree/master/0543-diameter-of-binary-tree) |
 <!---LeetCode Topics End-->
