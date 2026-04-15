@@ -52,25 +52,39 @@ return 1 + min(minDepth(root->left), minDepth(root->right));
 It treats NULL as depth 0
 Gives incorrect answer when one child is missing
 
+
+BFS is more intutive..........
+
+return depth as soon as we encounter first leaf node.........
 */
 class Solution {
 public:
-    int solve(TreeNode* node){
-        if(node == NULL) return 0;
-
-        /// If left subtree is NULL, ignore it and go right
-        if(node->left ==  NULL){
-            return 1 + solve(node->right);
-        }
-        // If right subtree is NULL, ignore it and go left
-        if(node->right == NULL){
-            return 1 + solve(node->left);
-        }
-         // If both children exist, take minimum
-        return 1 + min(solve(node->left),solve(node->right));
-    }
     int minDepth(TreeNode* root) {
-        int ans = solve(root);
-        return ans;
+        if (root == NULL) return 0;
+
+        queue<TreeNode*> q;
+        q.push(root);
+        int depth = 1;
+
+        while (!q.empty()) {
+            int size = q.size();
+
+            for (int i = 0; i < size; i++) {
+                TreeNode* node = q.front();
+                q.pop();
+
+                // Check if it's a leaf node
+                if (node->left == NULL && node->right == NULL) {
+                    return depth;
+                }
+
+                if (node->left) q.push(node->left);
+                if (node->right) q.push(node->right);
+            }
+
+            depth++; // move to next level
+        }
+
+        return depth;
     }
 };
