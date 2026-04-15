@@ -217,6 +217,7 @@ A collection of DSA problems that made me question my life choices. Includes my 
 | [0111-minimum-depth-of-binary-tree](https://github.com/jxt1nn/dsa-log/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/jxt1nn/dsa-log/tree/master/0112-path-sum) |
 | [0322-coin-change](https://github.com/jxt1nn/dsa-log/tree/master/0322-coin-change) |
+| [0863-all-nodes-distance-k-in-binary-tree](https://github.com/jxt1nn/dsa-log/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0993-cousins-in-binary-tree](https://github.com/jxt1nn/dsa-log/tree/master/0993-cousins-in-binary-tree) |
 ## Sliding Window
 |  |
@@ -227,6 +228,7 @@ A collection of DSA problems that made me question my life choices. Includes my 
 | ------- |
 | [0146-lru-cache](https://github.com/jxt1nn/dsa-log/tree/master/0146-lru-cache) |
 | [0763-partition-labels](https://github.com/jxt1nn/dsa-log/tree/master/0763-partition-labels) |
+| [0863-all-nodes-distance-k-in-binary-tree](https://github.com/jxt1nn/dsa-log/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0874-walking-robot-simulation](https://github.com/jxt1nn/dsa-log/tree/master/0874-walking-robot-simulation) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/jxt1nn/dsa-log/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 | [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/jxt1nn/dsa-log/tree/master/3741-minimum-distance-between-three-equal-elements-ii) |
@@ -259,6 +261,7 @@ A collection of DSA problems that made me question my life choices. Includes my 
 | [0111-minimum-depth-of-binary-tree](https://github.com/jxt1nn/dsa-log/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/jxt1nn/dsa-log/tree/master/0112-path-sum) |
 | [0543-diameter-of-binary-tree](https://github.com/jxt1nn/dsa-log/tree/master/0543-diameter-of-binary-tree) |
+| [0863-all-nodes-distance-k-in-binary-tree](https://github.com/jxt1nn/dsa-log/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0993-cousins-in-binary-tree](https://github.com/jxt1nn/dsa-log/tree/master/0993-cousins-in-binary-tree) |
 ## Depth-First Search
 |  |
@@ -268,6 +271,7 @@ A collection of DSA problems that made me question my life choices. Includes my 
 | [0111-minimum-depth-of-binary-tree](https://github.com/jxt1nn/dsa-log/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/jxt1nn/dsa-log/tree/master/0112-path-sum) |
 | [0543-diameter-of-binary-tree](https://github.com/jxt1nn/dsa-log/tree/master/0543-diameter-of-binary-tree) |
+| [0863-all-nodes-distance-k-in-binary-tree](https://github.com/jxt1nn/dsa-log/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0993-cousins-in-binary-tree](https://github.com/jxt1nn/dsa-log/tree/master/0993-cousins-in-binary-tree) |
 ## Binary Tree
 |  |
@@ -277,5 +281,6 @@ A collection of DSA problems that made me question my life choices. Includes my 
 | [0111-minimum-depth-of-binary-tree](https://github.com/jxt1nn/dsa-log/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/jxt1nn/dsa-log/tree/master/0112-path-sum) |
 | [0543-diameter-of-binary-tree](https://github.com/jxt1nn/dsa-log/tree/master/0543-diameter-of-binary-tree) |
+| [0863-all-nodes-distance-k-in-binary-tree](https://github.com/jxt1nn/dsa-log/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0993-cousins-in-binary-tree](https://github.com/jxt1nn/dsa-log/tree/master/0993-cousins-in-binary-tree) |
 <!---LeetCode Topics End-->
