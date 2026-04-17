@@ -9,6 +9,7 @@ A collection of DSA problems that made me question my life choices. Includes my 
 | [0045-jump-game-ii](https://github.com/jxt1nn/dsa-log/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/jxt1nn/dsa-log/tree/master/0055-jump-game) |
 | [0085-maximal-rectangle](https://github.com/jxt1nn/dsa-log/tree/master/0085-maximal-rectangle) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/jxt1nn/dsa-log/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0322-coin-change](https://github.com/jxt1nn/dsa-log/tree/master/0322-coin-change) |
 | [0678-valid-parenthesis-string](https://github.com/jxt1nn/dsa-log/tree/master/0678-valid-parenthesis-string) |
 | [0877-stone-game](https://github.com/jxt1nn/dsa-log/tree/master/0877-stone-game) |
@@ -263,6 +264,7 @@ A collection of DSA problems that made me question my life choices. Includes my 
 | [0104-maximum-depth-of-binary-tree](https://github.com/jxt1nn/dsa-log/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/jxt1nn/dsa-log/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/jxt1nn/dsa-log/tree/master/0112-path-sum) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/jxt1nn/dsa-log/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0543-diameter-of-binary-tree](https://github.com/jxt1nn/dsa-log/tree/master/0543-diameter-of-binary-tree) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/jxt1nn/dsa-log/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0993-cousins-in-binary-tree](https://github.com/jxt1nn/dsa-log/tree/master/0993-cousins-in-binary-tree) |
@@ -273,6 +275,7 @@ A collection of DSA problems that made me question my life choices. Includes my 
 | [0104-maximum-depth-of-binary-tree](https://github.com/jxt1nn/dsa-log/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/jxt1nn/dsa-log/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/jxt1nn/dsa-log/tree/master/0112-path-sum) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/jxt1nn/dsa-log/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0543-diameter-of-binary-tree](https://github.com/jxt1nn/dsa-log/tree/master/0543-diameter-of-binary-tree) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/jxt1nn/dsa-log/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0993-cousins-in-binary-tree](https://github.com/jxt1nn/dsa-log/tree/master/0993-cousins-in-binary-tree) |
@@ -283,6 +286,7 @@ A collection of DSA problems that made me question my life choices. Includes my 
 | [0104-maximum-depth-of-binary-tree](https://github.com/jxt1nn/dsa-log/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/jxt1nn/dsa-log/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/jxt1nn/dsa-log/tree/master/0112-path-sum) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/jxt1nn/dsa-log/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0543-diameter-of-binary-tree](https://github.com/jxt1nn/dsa-log/tree/master/0543-diameter-of-binary-tree) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/jxt1nn/dsa-log/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0993-cousins-in-binary-tree](https://github.com/jxt1nn/dsa-log/tree/master/0993-cousins-in-binary-tree) |
