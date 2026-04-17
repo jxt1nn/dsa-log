@@ -218,6 +218,7 @@ A collection of DSA problems that made me question my life choices. Includes my 
 | ------- |
 | [0100-same-tree](https://github.com/jxt1nn/dsa-log/tree/master/0100-same-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/jxt1nn/dsa-log/tree/master/0102-binary-tree-level-order-traversal) |
+| [0103-binary-tree-zigzag-level-order-traversal](https://github.com/jxt1nn/dsa-log/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/jxt1nn/dsa-log/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/jxt1nn/dsa-log/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/jxt1nn/dsa-log/tree/master/0112-path-sum) |
@@ -265,6 +266,7 @@ A collection of DSA problems that made me question my life choices. Includes my 
 | ------- |
 | [0100-same-tree](https://github.com/jxt1nn/dsa-log/tree/master/0100-same-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/jxt1nn/dsa-log/tree/master/0102-binary-tree-level-order-traversal) |
+| [0103-binary-tree-zigzag-level-order-traversal](https://github.com/jxt1nn/dsa-log/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/jxt1nn/dsa-log/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/jxt1nn/dsa-log/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/jxt1nn/dsa-log/tree/master/0112-path-sum) |
@@ -292,6 +294,7 @@ A collection of DSA problems that made me question my life choices. Includes my 
 | ------- |
 | [0100-same-tree](https://github.com/jxt1nn/dsa-log/tree/master/0100-same-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/jxt1nn/dsa-log/tree/master/0102-binary-tree-level-order-traversal) |
+| [0103-binary-tree-zigzag-level-order-traversal](https://github.com/jxt1nn/dsa-log/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/jxt1nn/dsa-log/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/jxt1nn/dsa-log/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/jxt1nn/dsa-log/tree/master/0112-path-sum) |
