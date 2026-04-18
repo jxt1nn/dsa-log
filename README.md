@@ -123,6 +123,7 @@ A collection of DSA problems that made me question my life choices. Includes my 
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/jxt1nn/dsa-log/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/jxt1nn/dsa-log/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/jxt1nn/dsa-log/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
+| [3783-mirror-distance-of-an-integer](https://github.com/jxt1nn/dsa-log/tree/master/3783-mirror-distance-of-an-integer) |
 ## Game Theory
 |  |
 | ------- |
