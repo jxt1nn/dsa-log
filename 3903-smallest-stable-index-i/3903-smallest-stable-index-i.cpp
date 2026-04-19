@@ -20,28 +20,56 @@ and compute max at the moment
 for now then i will think more....
 
 
+this is O(n^2)
 
+so what we need ??????????
 
+max from left at each index 
+    and min from right at each index 
 
+we can crete suffix and prefx 
+
+what prefix do store the max till ith index from left 
+
+    suffix store min till i from right
+
+but we got problem only in suffix
+prefix we can calcuate at the moment
 
 */
 class Solution {
 public:
     int firstStableIndex(vector<int>& nums, int k) {
-        int maxi = INT_MIN;
+        int n = nums.size();
+        vector<int> mini(n);
+        mini[n-1] = nums[n-1];
+        
+        //suffix
+        for(int i = n-2; i >= 0; i--){
+            mini[i] = min(nums[i], mini[i+1]);
+        }
 
-        for(int i = 0; i < nums.size();i++){
+        int maxi =  INT_MIN;
+
+        for(int i =0; i < n;i++){
             maxi = max(maxi,nums[i]);
-            int mini = INT_MAX;
-            for(int j = i; j < nums.size();j++){
-                mini = min(mini,nums[j]);
-            }
-            if(( maxi - mini ) <= k){
+
+            if((maxi - mini[i]) <= k){
                 return i;
             }
-        }
+        }        
+
         return -1;
 
-
+        //     maxi = max(maxi,nums[i]);
+        //     int mini = INT_MAX;
+        //     for(int j = i; j < nums.size();j++){
+        //         mini = min(mini,nums[j]);
+        //     }
+        //     if(( maxi - mini ) <= k){
+        //         return i;
+        //     }
+        // }
+        // return -1;
     }
 };
