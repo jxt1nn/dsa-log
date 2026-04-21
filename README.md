@@ -232,6 +232,7 @@ A collection of DSA problems that made me question my life choices. Includes my 
 | [0111-minimum-depth-of-binary-tree](https://github.com/jxt1nn/dsa-log/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/jxt1nn/dsa-log/tree/master/0112-path-sum) |
 | [0199-binary-tree-right-side-view](https://github.com/jxt1nn/dsa-log/tree/master/0199-binary-tree-right-side-view) |
+| [0226-invert-binary-tree](https://github.com/jxt1nn/dsa-log/tree/master/0226-invert-binary-tree) |
 | [0322-coin-change](https://github.com/jxt1nn/dsa-log/tree/master/0322-coin-change) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/jxt1nn/dsa-log/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/jxt1nn/dsa-log/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
@@ -283,6 +284,7 @@ A collection of DSA problems that made me question my life choices. Includes my 
 | [0112-path-sum](https://github.com/jxt1nn/dsa-log/tree/master/0112-path-sum) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/jxt1nn/dsa-log/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0199-binary-tree-right-side-view](https://github.com/jxt1nn/dsa-log/tree/master/0199-binary-tree-right-side-view) |
+| [0226-invert-binary-tree](https://github.com/jxt1nn/dsa-log/tree/master/0226-invert-binary-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/jxt1nn/dsa-log/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/jxt1nn/dsa-log/tree/master/0543-diameter-of-binary-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/jxt1nn/dsa-log/tree/master/0637-average-of-levels-in-binary-tree) |
@@ -298,6 +300,7 @@ A collection of DSA problems that made me question my life choices. Includes my 
 | [0112-path-sum](https://github.com/jxt1nn/dsa-log/tree/master/0112-path-sum) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/jxt1nn/dsa-log/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0199-binary-tree-right-side-view](https://github.com/jxt1nn/dsa-log/tree/master/0199-binary-tree-right-side-view) |
+| [0226-invert-binary-tree](https://github.com/jxt1nn/dsa-log/tree/master/0226-invert-binary-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/jxt1nn/dsa-log/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/jxt1nn/dsa-log/tree/master/0543-diameter-of-binary-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/jxt1nn/dsa-log/tree/master/0637-average-of-levels-in-binary-tree) |
@@ -316,6 +319,7 @@ A collection of DSA problems that made me question my life choices. Includes my 
 | [0112-path-sum](https://github.com/jxt1nn/dsa-log/tree/master/0112-path-sum) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/jxt1nn/dsa-log/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0199-binary-tree-right-side-view](https://github.com/jxt1nn/dsa-log/tree/master/0199-binary-tree-right-side-view) |
+| [0226-invert-binary-tree](https://github.com/jxt1nn/dsa-log/tree/master/0226-invert-binary-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/jxt1nn/dsa-log/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/jxt1nn/dsa-log/tree/master/0543-diameter-of-binary-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/jxt1nn/dsa-log/tree/master/0637-average-of-levels-in-binary-tree) |
