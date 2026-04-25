@@ -85,6 +85,7 @@ A collection of DSA problems that made me question my life choices. Includes my 
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/jxt1nn/dsa-log/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/jxt1nn/dsa-log/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/jxt1nn/dsa-log/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
+| [3464-maximize-the-distance-between-points-on-a-square](https://github.com/jxt1nn/dsa-log/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
 | [3488-closest-equal-element-queries](https://github.com/jxt1nn/dsa-log/tree/master/3488-closest-equal-element-queries) |
 | [3546-equal-sum-grid-partition-i](https://github.com/jxt1nn/dsa-log/tree/master/3546-equal-sum-grid-partition-i) |
 | [3643-flip-square-submatrix-vertically](https://github.com/jxt1nn/dsa-log/tree/master/3643-flip-square-submatrix-vertically) |
@@ -109,6 +110,7 @@ A collection of DSA problems that made me question my life choices. Includes my 
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/jxt1nn/dsa-log/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/jxt1nn/dsa-log/tree/master/2300-successful-pairs-of-spells-and-potions) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/jxt1nn/dsa-log/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
+| [3464-maximize-the-distance-between-points-on-a-square](https://github.com/jxt1nn/dsa-log/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
 | [3488-closest-equal-element-queries](https://github.com/jxt1nn/dsa-log/tree/master/3488-closest-equal-element-queries) |
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/jxt1nn/dsa-log/tree/master/3661-maximum-walls-destroyed-by-robots) |
 ## Sorting
@@ -123,6 +125,7 @@ A collection of DSA problems that made me question my life choices. Includes my 
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/jxt1nn/dsa-log/tree/master/2300-successful-pairs-of-spells-and-potions) |
 | [2463-minimum-total-distance-traveled](https://github.com/jxt1nn/dsa-log/tree/master/2463-minimum-total-distance-traveled) |
 | [2751-robot-collisions](https://github.com/jxt1nn/dsa-log/tree/master/2751-robot-collisions) |
+| [3464-maximize-the-distance-between-points-on-a-square](https://github.com/jxt1nn/dsa-log/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/jxt1nn/dsa-log/tree/master/3661-maximum-walls-destroyed-by-robots) |
 ## Math
 |  |
@@ -132,6 +135,7 @@ A collection of DSA problems that made me question my life choices. Includes my 
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/jxt1nn/dsa-log/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/jxt1nn/dsa-log/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/jxt1nn/dsa-log/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
+| [3464-maximize-the-distance-between-points-on-a-square](https://github.com/jxt1nn/dsa-log/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/jxt1nn/dsa-log/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
 | [3783-mirror-distance-of-an-integer](https://github.com/jxt1nn/dsa-log/tree/master/3783-mirror-distance-of-an-integer) |
 ## Game Theory
@@ -354,4 +358,8 @@ A collection of DSA problems that made me question my life choices. Includes my 
 |  |
 | ------- |
 | [2833-furthest-point-from-origin](https://github.com/jxt1nn/dsa-log/tree/master/2833-furthest-point-from-origin) |
+## Geometry
+|  |
+| ------- |
+| [3464-maximize-the-distance-between-points-on-a-square](https://github.com/jxt1nn/dsa-log/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
 <!---LeetCode Topics End-->
