@@ -66,6 +66,7 @@ A collection of DSA problems that made me question my life choices. Includes my 
 | [0877-stone-game](https://github.com/jxt1nn/dsa-log/tree/master/0877-stone-game) |
 | [1094-car-pooling](https://github.com/jxt1nn/dsa-log/tree/master/1094-car-pooling) |
 | [1326-minimum-number-of-taps-to-open-to-water-a-garden](https://github.com/jxt1nn/dsa-log/tree/master/1326-minimum-number-of-taps-to-open-to-water-a-garden) |
+| [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/jxt1nn/dsa-log/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/jxt1nn/dsa-log/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/jxt1nn/dsa-log/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/jxt1nn/dsa-log/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
@@ -198,6 +199,7 @@ A collection of DSA problems that made me question my life choices. Includes my 
 |  |
 | ------- |
 | [0085-maximal-rectangle](https://github.com/jxt1nn/dsa-log/tree/master/0085-maximal-rectangle) |
+| [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/jxt1nn/dsa-log/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/jxt1nn/dsa-log/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/jxt1nn/dsa-log/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/jxt1nn/dsa-log/tree/master/1727-largest-submatrix-with-rearrangements) |
@@ -250,6 +252,7 @@ A collection of DSA problems that made me question my life choices. Includes my 
 | [0637-average-of-levels-in-binary-tree](https://github.com/jxt1nn/dsa-log/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/jxt1nn/dsa-log/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0993-cousins-in-binary-tree](https://github.com/jxt1nn/dsa-log/tree/master/0993-cousins-in-binary-tree) |
+| [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/jxt1nn/dsa-log/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/jxt1nn/dsa-log/tree/master/1559-detect-cycles-in-2d-grid) |
 ## Sliding Window
 |  |
@@ -328,6 +331,7 @@ A collection of DSA problems that made me question my life choices. Includes my 
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/jxt1nn/dsa-log/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0968-binary-tree-cameras](https://github.com/jxt1nn/dsa-log/tree/master/0968-binary-tree-cameras) |
 | [0993-cousins-in-binary-tree](https://github.com/jxt1nn/dsa-log/tree/master/0993-cousins-in-binary-tree) |
+| [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/jxt1nn/dsa-log/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/jxt1nn/dsa-log/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/jxt1nn/dsa-log/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
 ## Binary Tree
@@ -353,6 +357,7 @@ A collection of DSA problems that made me question my life choices. Includes my 
 ## Union-Find
 |  |
 | ------- |
+| [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/jxt1nn/dsa-log/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/jxt1nn/dsa-log/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/jxt1nn/dsa-log/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
 ## Trie
