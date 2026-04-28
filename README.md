@@ -74,6 +74,7 @@ A collection of DSA problems that made me question my life choices. Includes my 
 | [1848-minimum-distance-to-the-target-element](https://github.com/jxt1nn/dsa-log/tree/master/1848-minimum-distance-to-the-target-element) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/jxt1nn/dsa-log/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/jxt1nn/dsa-log/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
+| [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/jxt1nn/dsa-log/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/jxt1nn/dsa-log/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/jxt1nn/dsa-log/tree/master/2300-successful-pairs-of-spells-and-potions) |
 | [2305-fair-distribution-of-cookies](https://github.com/jxt1nn/dsa-log/tree/master/2305-fair-distribution-of-cookies) |
@@ -124,6 +125,7 @@ A collection of DSA problems that made me question my life choices. Includes my 
 | [1094-car-pooling](https://github.com/jxt1nn/dsa-log/tree/master/1094-car-pooling) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/jxt1nn/dsa-log/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/jxt1nn/dsa-log/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
+| [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/jxt1nn/dsa-log/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/jxt1nn/dsa-log/tree/master/2300-successful-pairs-of-spells-and-potions) |
 | [2463-minimum-total-distance-traveled](https://github.com/jxt1nn/dsa-log/tree/master/2463-minimum-total-distance-traveled) |
 | [2751-robot-collisions](https://github.com/jxt1nn/dsa-log/tree/master/2751-robot-collisions) |
@@ -135,6 +137,7 @@ A collection of DSA problems that made me question my life choices. Includes my 
 | [0877-stone-game](https://github.com/jxt1nn/dsa-log/tree/master/0877-stone-game) |
 | [1622-fancy-sequence](https://github.com/jxt1nn/dsa-log/tree/master/1622-fancy-sequence) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/jxt1nn/dsa-log/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
+| [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/jxt1nn/dsa-log/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/jxt1nn/dsa-log/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/jxt1nn/dsa-log/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/jxt1nn/dsa-log/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
@@ -204,6 +207,7 @@ A collection of DSA problems that made me question my life choices. Includes my 
 | [1559-detect-cycles-in-2d-grid](https://github.com/jxt1nn/dsa-log/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/jxt1nn/dsa-log/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/jxt1nn/dsa-log/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
+| [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/jxt1nn/dsa-log/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2906-construct-product-matrix](https://github.com/jxt1nn/dsa-log/tree/master/2906-construct-product-matrix) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/jxt1nn/dsa-log/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/jxt1nn/dsa-log/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
