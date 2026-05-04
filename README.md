@@ -59,6 +59,7 @@ A collection of DSA problems that made me question my life choices. Includes my 
 | [0031-next-permutation](https://github.com/jxt1nn/dsa-log/tree/master/0031-next-permutation) |
 | [0045-jump-game-ii](https://github.com/jxt1nn/dsa-log/tree/master/0045-jump-game-ii) |
 | [0046-permutations](https://github.com/jxt1nn/dsa-log/tree/master/0046-permutations) |
+| [0048-rotate-image](https://github.com/jxt1nn/dsa-log/tree/master/0048-rotate-image) |
 | [0055-jump-game](https://github.com/jxt1nn/dsa-log/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/jxt1nn/dsa-log/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/jxt1nn/dsa-log/tree/master/0057-insert-interval) |
@@ -142,6 +143,7 @@ A collection of DSA problems that made me question my life choices. Includes my 
 ## Math
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/jxt1nn/dsa-log/tree/master/0048-rotate-image) |
 | [0396-rotate-function](https://github.com/jxt1nn/dsa-log/tree/master/0396-rotate-function) |
 | [0788-rotated-digits](https://github.com/jxt1nn/dsa-log/tree/master/0788-rotated-digits) |
 | [0877-stone-game](https://github.com/jxt1nn/dsa-log/tree/master/0877-stone-game) |
@@ -214,6 +216,7 @@ A collection of DSA problems that made me question my life choices. Includes my 
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/jxt1nn/dsa-log/tree/master/0048-rotate-image) |
 | [0085-maximal-rectangle](https://github.com/jxt1nn/dsa-log/tree/master/0085-maximal-rectangle) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/jxt1nn/dsa-log/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/jxt1nn/dsa-log/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
