@@ -63,6 +63,7 @@ A collection of DSA problems that made me question my life choices. Includes my 
 | [0055-jump-game](https://github.com/jxt1nn/dsa-log/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/jxt1nn/dsa-log/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/jxt1nn/dsa-log/tree/master/0057-insert-interval) |
+| [0078-subsets](https://github.com/jxt1nn/dsa-log/tree/master/0078-subsets) |
 | [0085-maximal-rectangle](https://github.com/jxt1nn/dsa-log/tree/master/0085-maximal-rectangle) |
 | [0322-coin-change](https://github.com/jxt1nn/dsa-log/tree/master/0322-coin-change) |
 | [0396-rotate-function](https://github.com/jxt1nn/dsa-log/tree/master/0396-rotate-function) |
@@ -201,6 +202,7 @@ A collection of DSA problems that made me question my life choices. Includes my 
 |  |
 | ------- |
 | [0046-permutations](https://github.com/jxt1nn/dsa-log/tree/master/0046-permutations) |
+| [0078-subsets](https://github.com/jxt1nn/dsa-log/tree/master/0078-subsets) |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/jxt1nn/dsa-log/tree/master/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [2305-fair-distribution-of-cookies](https://github.com/jxt1nn/dsa-log/tree/master/2305-fair-distribution-of-cookies) |
 ## Design
@@ -313,6 +315,7 @@ A collection of DSA problems that made me question my life choices. Includes my 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/jxt1nn/dsa-log/tree/master/0078-subsets) |
 | [2305-fair-distribution-of-cookies](https://github.com/jxt1nn/dsa-log/tree/master/2305-fair-distribution-of-cookies) |
 ## Bitmask
 |  |
