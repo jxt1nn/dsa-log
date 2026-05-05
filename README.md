@@ -57,6 +57,7 @@ A collection of DSA problems that made me question my life choices. Includes my 
 |  |
 | ------- |
 | [0031-next-permutation](https://github.com/jxt1nn/dsa-log/tree/master/0031-next-permutation) |
+| [0039-combination-sum](https://github.com/jxt1nn/dsa-log/tree/master/0039-combination-sum) |
 | [0045-jump-game-ii](https://github.com/jxt1nn/dsa-log/tree/master/0045-jump-game-ii) |
 | [0046-permutations](https://github.com/jxt1nn/dsa-log/tree/master/0046-permutations) |
 | [0048-rotate-image](https://github.com/jxt1nn/dsa-log/tree/master/0048-rotate-image) |
@@ -202,6 +203,7 @@ A collection of DSA problems that made me question my life choices. Includes my 
 ## Backtracking
 |  |
 | ------- |
+| [0039-combination-sum](https://github.com/jxt1nn/dsa-log/tree/master/0039-combination-sum) |
 | [0046-permutations](https://github.com/jxt1nn/dsa-log/tree/master/0046-permutations) |
 | [0078-subsets](https://github.com/jxt1nn/dsa-log/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/jxt1nn/dsa-log/tree/master/0090-subsets-ii) |
