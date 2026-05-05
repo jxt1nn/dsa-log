@@ -111,6 +111,7 @@ A collection of DSA problems that made me question my life choices. Includes my 
 |  |
 | ------- |
 | [0031-next-permutation](https://github.com/jxt1nn/dsa-log/tree/master/0031-next-permutation) |
+| [0061-rotate-list](https://github.com/jxt1nn/dsa-log/tree/master/0061-rotate-list) |
 | [0455-assign-cookies](https://github.com/jxt1nn/dsa-log/tree/master/0455-assign-cookies) |
 | [0763-partition-labels](https://github.com/jxt1nn/dsa-log/tree/master/0763-partition-labels) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/jxt1nn/dsa-log/tree/master/1855-maximum-distance-between-a-pair-of-values) |
@@ -296,6 +297,7 @@ A collection of DSA problems that made me question my life choices. Includes my 
 ## Linked List
 |  |
 | ------- |
+| [0061-rotate-list](https://github.com/jxt1nn/dsa-log/tree/master/0061-rotate-list) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/jxt1nn/dsa-log/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/jxt1nn/dsa-log/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0146-lru-cache](https://github.com/jxt1nn/dsa-log/tree/master/0146-lru-cache) |
