@@ -1,28 +1,36 @@
 /*
     permutation
-pick unuesed elements 
+    "all the possible permutations"
+    BACKRACKING............
 
-a used array intailly 0
+    goal : all permutation 
+    choices : take the any unused element 
+    constraint : cant use used element 
 
-a solve function..........
+    base Case : temp size == nums.size();
 
-what function take 
-    index,used array,GLOBAL answer array 
+    loop...........
+    how many choics on each step 
+    i to n
 
-backracking 
+    for(all possible choices){
+        if(check used) continue ;
 
-    chooose
-    recursion 
-    undo
+        choose 
 
-for(0 -> n){
-    if(used) continue;
+        explore 
 
-    mark as used 
-    solve(index+1)
+        undo
+    }
 
-    mark as ununsed 
-}
+
+
+
+
+
+
+
+
 */
 class Solution {
 public:
