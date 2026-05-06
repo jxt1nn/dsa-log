@@ -61,6 +61,7 @@ A collection of DSA problems that made me question my life choices. Includes my 
 | [0040-combination-sum-ii](https://github.com/jxt1nn/dsa-log/tree/master/0040-combination-sum-ii) |
 | [0045-jump-game-ii](https://github.com/jxt1nn/dsa-log/tree/master/0045-jump-game-ii) |
 | [0046-permutations](https://github.com/jxt1nn/dsa-log/tree/master/0046-permutations) |
+| [0047-permutations-ii](https://github.com/jxt1nn/dsa-log/tree/master/0047-permutations-ii) |
 | [0048-rotate-image](https://github.com/jxt1nn/dsa-log/tree/master/0048-rotate-image) |
 | [0055-jump-game](https://github.com/jxt1nn/dsa-log/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/jxt1nn/dsa-log/tree/master/0056-merge-intervals) |
@@ -135,6 +136,7 @@ A collection of DSA problems that made me question my life choices. Includes my 
 ## Sorting
 |  |
 | ------- |
+| [0047-permutations-ii](https://github.com/jxt1nn/dsa-log/tree/master/0047-permutations-ii) |
 | [0056-merge-intervals](https://github.com/jxt1nn/dsa-log/tree/master/0056-merge-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/jxt1nn/dsa-log/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0455-assign-cookies](https://github.com/jxt1nn/dsa-log/tree/master/0455-assign-cookies) |
@@ -209,6 +211,7 @@ A collection of DSA problems that made me question my life choices. Includes my 
 | [0039-combination-sum](https://github.com/jxt1nn/dsa-log/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/jxt1nn/dsa-log/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/jxt1nn/dsa-log/tree/master/0046-permutations) |
+| [0047-permutations-ii](https://github.com/jxt1nn/dsa-log/tree/master/0047-permutations-ii) |
 | [0078-subsets](https://github.com/jxt1nn/dsa-log/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/jxt1nn/dsa-log/tree/master/0090-subsets-ii) |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/jxt1nn/dsa-log/tree/master/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
