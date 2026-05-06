@@ -11,7 +11,7 @@
 
     loop...........
     how many choics on each step 
-    i to n
+    0 to n
 
     for(all possible choices){
         if(check used) continue ;
@@ -22,12 +22,6 @@
 
         undo
     }
-
-
-
-
-
-
 
 
 
