@@ -26,6 +26,7 @@ A collection of DSA problems that made me question my life choices. Includes my 
 | [3129-find-all-possible-stable-binary-arrays-i](https://github.com/jxt1nn/dsa-log/tree/master/3129-find-all-possible-stable-binary-arrays-i) |
 | [3225-maximum-score-from-grid-operations](https://github.com/jxt1nn/dsa-log/tree/master/3225-maximum-score-from-grid-operations) |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/jxt1nn/dsa-log/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
+| [3660-jump-game-ix](https://github.com/jxt1nn/dsa-log/tree/master/3660-jump-game-ix) |
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/jxt1nn/dsa-log/tree/master/3661-maximum-walls-destroyed-by-robots) |
 | [3742-maximum-path-score-in-a-grid](https://github.com/jxt1nn/dsa-log/tree/master/3742-maximum-path-score-in-a-grid) |
 ## Graph Theory
@@ -108,6 +109,7 @@ A collection of DSA problems that made me question my life choices. Includes my 
 | [3643-flip-square-submatrix-vertically](https://github.com/jxt1nn/dsa-log/tree/master/3643-flip-square-submatrix-vertically) |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/jxt1nn/dsa-log/tree/master/3653-xor-after-range-multiplication-queries-i) |
 | [3655-xor-after-range-multiplication-queries-ii](https://github.com/jxt1nn/dsa-log/tree/master/3655-xor-after-range-multiplication-queries-ii) |
+| [3660-jump-game-ix](https://github.com/jxt1nn/dsa-log/tree/master/3660-jump-game-ix) |
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/jxt1nn/dsa-log/tree/master/3661-maximum-walls-destroyed-by-robots) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/jxt1nn/dsa-log/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 | [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/jxt1nn/dsa-log/tree/master/3741-minimum-distance-between-three-equal-elements-ii) |
