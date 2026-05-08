@@ -163,6 +163,7 @@ A collection of DSA problems that made me question my life choices. Includes my 
 | [1622-fancy-sequence](https://github.com/jxt1nn/dsa-log/tree/master/1622-fancy-sequence) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/jxt1nn/dsa-log/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/jxt1nn/dsa-log/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
+| [2849-determine-if-a-cell-is-reachable-at-a-given-time](https://github.com/jxt1nn/dsa-log/tree/master/2849-determine-if-a-cell-is-reachable-at-a-given-time) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/jxt1nn/dsa-log/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/jxt1nn/dsa-log/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/jxt1nn/dsa-log/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
