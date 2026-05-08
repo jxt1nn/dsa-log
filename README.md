@@ -49,6 +49,7 @@ A collection of DSA problems that made me question my life choices. Includes my 
 | [1094-car-pooling](https://github.com/jxt1nn/dsa-log/tree/master/1094-car-pooling) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/jxt1nn/dsa-log/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [2615-sum-of-distances](https://github.com/jxt1nn/dsa-log/tree/master/2615-sum-of-distances) |
+| [2848-points-that-intersect-with-cars](https://github.com/jxt1nn/dsa-log/tree/master/2848-points-that-intersect-with-cars) |
 | [2906-construct-product-matrix](https://github.com/jxt1nn/dsa-log/tree/master/2906-construct-product-matrix) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/jxt1nn/dsa-log/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 | [3129-find-all-possible-stable-binary-arrays-i](https://github.com/jxt1nn/dsa-log/tree/master/3129-find-all-possible-stable-binary-arrays-i) |
@@ -97,6 +98,7 @@ A collection of DSA problems that made me question my life choices. Includes my 
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/jxt1nn/dsa-log/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
 | [2615-sum-of-distances](https://github.com/jxt1nn/dsa-log/tree/master/2615-sum-of-distances) |
 | [2751-robot-collisions](https://github.com/jxt1nn/dsa-log/tree/master/2751-robot-collisions) |
+| [2848-points-that-intersect-with-cars](https://github.com/jxt1nn/dsa-log/tree/master/2848-points-that-intersect-with-cars) |
 | [2906-construct-product-matrix](https://github.com/jxt1nn/dsa-log/tree/master/2906-construct-product-matrix) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/jxt1nn/dsa-log/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/jxt1nn/dsa-log/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
@@ -306,6 +308,7 @@ A collection of DSA problems that made me question my life choices. Includes my 
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/jxt1nn/dsa-log/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0874-walking-robot-simulation](https://github.com/jxt1nn/dsa-log/tree/master/0874-walking-robot-simulation) |
 | [2615-sum-of-distances](https://github.com/jxt1nn/dsa-log/tree/master/2615-sum-of-distances) |
+| [2848-points-that-intersect-with-cars](https://github.com/jxt1nn/dsa-log/tree/master/2848-points-that-intersect-with-cars) |
 | [3488-closest-equal-element-queries](https://github.com/jxt1nn/dsa-log/tree/master/3488-closest-equal-element-queries) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/jxt1nn/dsa-log/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 | [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/jxt1nn/dsa-log/tree/master/3741-minimum-distance-between-three-equal-elements-ii) |
