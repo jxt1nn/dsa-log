@@ -91,6 +91,7 @@ A collection of DSA problems that made me question my life choices. Includes my 
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/jxt1nn/dsa-log/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [1861-rotating-the-box](https://github.com/jxt1nn/dsa-log/tree/master/1861-rotating-the-box) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/jxt1nn/dsa-log/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
+| [1914-cyclically-rotating-a-grid](https://github.com/jxt1nn/dsa-log/tree/master/1914-cyclically-rotating-a-grid) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/jxt1nn/dsa-log/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/jxt1nn/dsa-log/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/jxt1nn/dsa-log/tree/master/2300-successful-pairs-of-spells-and-potions) |
@@ -251,6 +252,7 @@ A collection of DSA problems that made me question my life choices. Includes my 
 | [1727-largest-submatrix-with-rearrangements](https://github.com/jxt1nn/dsa-log/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1861-rotating-the-box](https://github.com/jxt1nn/dsa-log/tree/master/1861-rotating-the-box) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/jxt1nn/dsa-log/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
+| [1914-cyclically-rotating-a-grid](https://github.com/jxt1nn/dsa-log/tree/master/1914-cyclically-rotating-a-grid) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/jxt1nn/dsa-log/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2850-minimum-moves-to-spread-stones-over-grid](https://github.com/jxt1nn/dsa-log/tree/master/2850-minimum-moves-to-spread-stones-over-grid) |
 | [2906-construct-product-matrix](https://github.com/jxt1nn/dsa-log/tree/master/2906-construct-product-matrix) |
@@ -282,6 +284,7 @@ A collection of DSA problems that made me question my life choices. Includes my 
 | [0657-robot-return-to-origin](https://github.com/jxt1nn/dsa-log/tree/master/0657-robot-return-to-origin) |
 | [0874-walking-robot-simulation](https://github.com/jxt1nn/dsa-log/tree/master/0874-walking-robot-simulation) |
 | [1094-car-pooling](https://github.com/jxt1nn/dsa-log/tree/master/1094-car-pooling) |
+| [1914-cyclically-rotating-a-grid](https://github.com/jxt1nn/dsa-log/tree/master/1914-cyclically-rotating-a-grid) |
 | [2069-walking-robot-simulation-ii](https://github.com/jxt1nn/dsa-log/tree/master/2069-walking-robot-simulation-ii) |
 | [2075-decode-the-slanted-ciphertext](https://github.com/jxt1nn/dsa-log/tree/master/2075-decode-the-slanted-ciphertext) |
 | [2751-robot-collisions](https://github.com/jxt1nn/dsa-log/tree/master/2751-robot-collisions) |
