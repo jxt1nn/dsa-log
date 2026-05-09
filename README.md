@@ -106,6 +106,7 @@ A collection of DSA problems that made me question my life choices. Includes my 
 | [2906-construct-product-matrix](https://github.com/jxt1nn/dsa-log/tree/master/2906-construct-product-matrix) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/jxt1nn/dsa-log/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3033-modify-the-matrix](https://github.com/jxt1nn/dsa-log/tree/master/3033-modify-the-matrix) |
+| [3034-number-of-subarrays-that-match-a-pattern-i](https://github.com/jxt1nn/dsa-log/tree/master/3034-number-of-subarrays-that-match-a-pattern-i) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/jxt1nn/dsa-log/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 | [3225-maximum-score-from-grid-operations](https://github.com/jxt1nn/dsa-log/tree/master/3225-maximum-score-from-grid-operations) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/jxt1nn/dsa-log/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
@@ -444,8 +445,17 @@ A collection of DSA problems that made me question my life choices. Includes my 
 |  |
 | ------- |
 | [0796-rotate-string](https://github.com/jxt1nn/dsa-log/tree/master/0796-rotate-string) |
+| [3034-number-of-subarrays-that-match-a-pattern-i](https://github.com/jxt1nn/dsa-log/tree/master/3034-number-of-subarrays-that-match-a-pattern-i) |
 ## Number Theory
 |  |
 | ------- |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/jxt1nn/dsa-log/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
+## Rolling Hash
+|  |
+| ------- |
+| [3034-number-of-subarrays-that-match-a-pattern-i](https://github.com/jxt1nn/dsa-log/tree/master/3034-number-of-subarrays-that-match-a-pattern-i) |
+## Hash Function
+|  |
+| ------- |
+| [3034-number-of-subarrays-that-match-a-pattern-i](https://github.com/jxt1nn/dsa-log/tree/master/3034-number-of-subarrays-that-match-a-pattern-i) |
 <!---LeetCode Topics End-->
