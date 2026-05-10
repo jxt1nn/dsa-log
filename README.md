@@ -11,6 +11,7 @@ A collection of DSA problems that made me question my life choices. Includes my 
 | [0055-jump-game](https://github.com/jxt1nn/dsa-log/tree/master/0055-jump-game) |
 | [0085-maximal-rectangle](https://github.com/jxt1nn/dsa-log/tree/master/0085-maximal-rectangle) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/jxt1nn/dsa-log/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0131-palindrome-partitioning](https://github.com/jxt1nn/dsa-log/tree/master/0131-palindrome-partitioning) |
 | [0322-coin-change](https://github.com/jxt1nn/dsa-log/tree/master/0322-coin-change) |
 | [0396-rotate-function](https://github.com/jxt1nn/dsa-log/tree/master/0396-rotate-function) |
 | [0678-valid-parenthesis-string](https://github.com/jxt1nn/dsa-log/tree/master/0678-valid-parenthesis-string) |
@@ -208,6 +209,7 @@ A collection of DSA problems that made me question my life choices. Includes my 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/jxt1nn/dsa-log/tree/master/0022-generate-parentheses) |
+| [0131-palindrome-partitioning](https://github.com/jxt1nn/dsa-log/tree/master/0131-palindrome-partitioning) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/jxt1nn/dsa-log/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0657-robot-return-to-origin](https://github.com/jxt1nn/dsa-log/tree/master/0657-robot-return-to-origin) |
 | [0678-valid-parenthesis-string](https://github.com/jxt1nn/dsa-log/tree/master/0678-valid-parenthesis-string) |
@@ -231,6 +233,7 @@ A collection of DSA problems that made me question my life choices. Includes my 
 | [0047-permutations-ii](https://github.com/jxt1nn/dsa-log/tree/master/0047-permutations-ii) |
 | [0078-subsets](https://github.com/jxt1nn/dsa-log/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/jxt1nn/dsa-log/tree/master/0090-subsets-ii) |
+| [0131-palindrome-partitioning](https://github.com/jxt1nn/dsa-log/tree/master/0131-palindrome-partitioning) |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/jxt1nn/dsa-log/tree/master/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [2305-fair-distribution-of-cookies](https://github.com/jxt1nn/dsa-log/tree/master/2305-fair-distribution-of-cookies) |
 | [2850-minimum-moves-to-spread-stones-over-grid](https://github.com/jxt1nn/dsa-log/tree/master/2850-minimum-moves-to-spread-stones-over-grid) |
