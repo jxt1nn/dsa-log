@@ -210,6 +210,7 @@ A collection of DSA problems that made me question my life choices. Includes my 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/jxt1nn/dsa-log/tree/master/0022-generate-parentheses) |
+| [0093-restore-ip-addresses](https://github.com/jxt1nn/dsa-log/tree/master/0093-restore-ip-addresses) |
 | [0131-palindrome-partitioning](https://github.com/jxt1nn/dsa-log/tree/master/0131-palindrome-partitioning) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/jxt1nn/dsa-log/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0657-robot-return-to-origin](https://github.com/jxt1nn/dsa-log/tree/master/0657-robot-return-to-origin) |
@@ -234,6 +235,7 @@ A collection of DSA problems that made me question my life choices. Includes my 
 | [0047-permutations-ii](https://github.com/jxt1nn/dsa-log/tree/master/0047-permutations-ii) |
 | [0078-subsets](https://github.com/jxt1nn/dsa-log/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/jxt1nn/dsa-log/tree/master/0090-subsets-ii) |
+| [0093-restore-ip-addresses](https://github.com/jxt1nn/dsa-log/tree/master/0093-restore-ip-addresses) |
 | [0131-palindrome-partitioning](https://github.com/jxt1nn/dsa-log/tree/master/0131-palindrome-partitioning) |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/jxt1nn/dsa-log/tree/master/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [2305-fair-distribution-of-cookies](https://github.com/jxt1nn/dsa-log/tree/master/2305-fair-distribution-of-cookies) |
