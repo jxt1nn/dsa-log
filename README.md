@@ -14,6 +14,7 @@ A collection of DSA problems that made me question my life choices. Includes my 
 | [0131-palindrome-partitioning](https://github.com/jxt1nn/dsa-log/tree/master/0131-palindrome-partitioning) |
 | [0322-coin-change](https://github.com/jxt1nn/dsa-log/tree/master/0322-coin-change) |
 | [0396-rotate-function](https://github.com/jxt1nn/dsa-log/tree/master/0396-rotate-function) |
+| [0416-partition-equal-subset-sum](https://github.com/jxt1nn/dsa-log/tree/master/0416-partition-equal-subset-sum) |
 | [0678-valid-parenthesis-string](https://github.com/jxt1nn/dsa-log/tree/master/0678-valid-parenthesis-string) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/jxt1nn/dsa-log/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [0788-rotated-digits](https://github.com/jxt1nn/dsa-log/tree/master/0788-rotated-digits) |
@@ -78,6 +79,7 @@ A collection of DSA problems that made me question my life choices. Includes my 
 | [0090-subsets-ii](https://github.com/jxt1nn/dsa-log/tree/master/0090-subsets-ii) |
 | [0322-coin-change](https://github.com/jxt1nn/dsa-log/tree/master/0322-coin-change) |
 | [0396-rotate-function](https://github.com/jxt1nn/dsa-log/tree/master/0396-rotate-function) |
+| [0416-partition-equal-subset-sum](https://github.com/jxt1nn/dsa-log/tree/master/0416-partition-equal-subset-sum) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/jxt1nn/dsa-log/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0455-assign-cookies](https://github.com/jxt1nn/dsa-log/tree/master/0455-assign-cookies) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/jxt1nn/dsa-log/tree/master/0698-partition-to-k-equal-sum-subsets) |
