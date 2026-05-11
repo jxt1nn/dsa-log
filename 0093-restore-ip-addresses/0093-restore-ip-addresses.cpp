@@ -131,10 +131,13 @@ when we are not adding anything in a string we just join in function'
 */
 class Solution {
 public:
+
     vector<string> ans;
 
-    bool isValid(string part){
+    // check if current segment is valid
+    bool isValid(string part) {
 
+        // leading zero case
         if (part.size() > 1 && part[0] == '0') {
             return false;
         }
@@ -142,41 +145,55 @@ public:
         int num = stoi(part);
 
         return num >= 0 && num <= 255;
-
     }
-    void solve(int index,int parts,string curr,string& s){
 
-        if(index == s.size() && parts == 4){
-            curr.pop_back();
-            ans.push_back(curr);
+    void solve(int index,
+               int parts,
+               string current,
+               string &s) {
+
+        // valid IP formed
+        if (index == s.size() && parts == 4) {
+
+            // remove last dot
+            current.pop_back();
+
+            ans.push_back(current);
             return;
         }
 
-        if(index >= s.size() || parts > 4){
+        // invalid cases
+        if (parts > 4 || index >= s.size()) {
             return;
         }
 
-        for(int len = 1; len <= 3;len++){
+        // choices:
+        // take 1 digit, 2 digits, 3 digits
 
-             // out of bounds
+        for (int len = 1; len <= 3; len++) {
+
+            // out of bounds
             if (index + len > s.size()) {
                 break;
             }
-            
+
             string part = s.substr(index, len);
 
-            if(isValid(part)){
-                
+            if (isValid(part)) {
+
+                // choose
                 solve(index + len,
-                        parts + 1,
-                        curr + part + ".",
-                        s);
+                      parts + 1,
+                      current + part + ".",
+                      s);
             }
         }
     }
+
     vector<string> restoreIpAddresses(string s) {
 
-        solve(0,0,"",s);
+        solve(0, 0, "", s);
+
         return ans;
     }
 };
