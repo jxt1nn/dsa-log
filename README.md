@@ -15,6 +15,7 @@ A collection of DSA problems that made me question my life choices. Includes my 
 | [0322-coin-change](https://github.com/jxt1nn/dsa-log/tree/master/0322-coin-change) |
 | [0396-rotate-function](https://github.com/jxt1nn/dsa-log/tree/master/0396-rotate-function) |
 | [0678-valid-parenthesis-string](https://github.com/jxt1nn/dsa-log/tree/master/0678-valid-parenthesis-string) |
+| [0698-partition-to-k-equal-sum-subsets](https://github.com/jxt1nn/dsa-log/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [0788-rotated-digits](https://github.com/jxt1nn/dsa-log/tree/master/0788-rotated-digits) |
 | [0877-stone-game](https://github.com/jxt1nn/dsa-log/tree/master/0877-stone-game) |
 | [0968-binary-tree-cameras](https://github.com/jxt1nn/dsa-log/tree/master/0968-binary-tree-cameras) |
@@ -79,6 +80,7 @@ A collection of DSA problems that made me question my life choices. Includes my 
 | [0396-rotate-function](https://github.com/jxt1nn/dsa-log/tree/master/0396-rotate-function) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/jxt1nn/dsa-log/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0455-assign-cookies](https://github.com/jxt1nn/dsa-log/tree/master/0455-assign-cookies) |
+| [0698-partition-to-k-equal-sum-subsets](https://github.com/jxt1nn/dsa-log/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [0860-lemonade-change](https://github.com/jxt1nn/dsa-log/tree/master/0860-lemonade-change) |
 | [0874-walking-robot-simulation](https://github.com/jxt1nn/dsa-log/tree/master/0874-walking-robot-simulation) |
 | [0877-stone-game](https://github.com/jxt1nn/dsa-log/tree/master/0877-stone-game) |
@@ -237,6 +239,7 @@ A collection of DSA problems that made me question my life choices. Includes my 
 | [0090-subsets-ii](https://github.com/jxt1nn/dsa-log/tree/master/0090-subsets-ii) |
 | [0093-restore-ip-addresses](https://github.com/jxt1nn/dsa-log/tree/master/0093-restore-ip-addresses) |
 | [0131-palindrome-partitioning](https://github.com/jxt1nn/dsa-log/tree/master/0131-palindrome-partitioning) |
+| [0698-partition-to-k-equal-sum-subsets](https://github.com/jxt1nn/dsa-log/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/jxt1nn/dsa-log/tree/master/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [2305-fair-distribution-of-cookies](https://github.com/jxt1nn/dsa-log/tree/master/2305-fair-distribution-of-cookies) |
 | [2850-minimum-moves-to-spread-stones-over-grid](https://github.com/jxt1nn/dsa-log/tree/master/2850-minimum-moves-to-spread-stones-over-grid) |
@@ -361,11 +364,13 @@ A collection of DSA problems that made me question my life choices. Includes my 
 | ------- |
 | [0078-subsets](https://github.com/jxt1nn/dsa-log/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/jxt1nn/dsa-log/tree/master/0090-subsets-ii) |
+| [0698-partition-to-k-equal-sum-subsets](https://github.com/jxt1nn/dsa-log/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [2305-fair-distribution-of-cookies](https://github.com/jxt1nn/dsa-log/tree/master/2305-fair-distribution-of-cookies) |
 | [2850-minimum-moves-to-spread-stones-over-grid](https://github.com/jxt1nn/dsa-log/tree/master/2850-minimum-moves-to-spread-stones-over-grid) |
 ## Bitmask
 |  |
 | ------- |
+| [0698-partition-to-k-equal-sum-subsets](https://github.com/jxt1nn/dsa-log/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [2305-fair-distribution-of-cookies](https://github.com/jxt1nn/dsa-log/tree/master/2305-fair-distribution-of-cookies) |
 | [2850-minimum-moves-to-spread-stones-over-grid](https://github.com/jxt1nn/dsa-log/tree/master/2850-minimum-moves-to-spread-stones-over-grid) |
 ## Tree
@@ -467,4 +472,8 @@ A collection of DSA problems that made me question my life choices. Includes my 
 |  |
 | ------- |
 | [3034-number-of-subarrays-that-match-a-pattern-i](https://github.com/jxt1nn/dsa-log/tree/master/3034-number-of-subarrays-that-match-a-pattern-i) |
+## Memoization
+|  |
+| ------- |
+| [0698-partition-to-k-equal-sum-subsets](https://github.com/jxt1nn/dsa-log/tree/master/0698-partition-to-k-equal-sum-subsets) |
 <!---LeetCode Topics End-->
