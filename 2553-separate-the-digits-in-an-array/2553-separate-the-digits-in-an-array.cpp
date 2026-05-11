@@ -3,17 +3,18 @@ public:
     vector<int> separateDigits(vector<int>& nums) {
         
         vector<int> result;
+        int n = nums.size();
 
-        for (int num : nums) {
+        for(int i = n-1;i >= 0;i--) {
+            int num = nums[i];
 
-            string s = to_string(num);
-
-            for (char ch : s) {
-
-                result.push_back(ch - '0');
+            while(num){
+                int last = num % 10;
+                result.push_back(last);
+                num /= 10;
             }
-        }
-
+        } 
+        reverse(result.begin(),result.end());
         return result;
     }
 };
