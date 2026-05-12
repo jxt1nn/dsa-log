@@ -139,17 +139,21 @@ at the end of the function return true;
 
 */
 class Solution {
-public: 
-    vector<vector<string>> ans;
-    
-    bool isSafe(int row, int col,int n, vector<string>& board) {
+public:
 
-        for(int i = 0;i < n;i++){
-            if(board[i][col] == 'Q'){
+    vector<vector<string>> ans;
+
+    // check if current position is safe
+    bool isSafe(int row, int col, vector<string>& board, int n) {
+
+        // check upper column
+        for(int i = 0; i < row; i++) {
+            if(board[i][col] == 'Q') {
                 return false;
             }
         }
 
+        // check left diagonal
         int x = row;
         int y = col;
 
@@ -163,6 +167,7 @@ public:
             y--;
         }
 
+        // check right diagonal
         x = row;
         y = col;
 
@@ -179,30 +184,39 @@ public:
         return true;
     }
 
-    void solve(int row,int n, vector<string>& board){
+    void solve(int row,
+               vector<string>& board,
+               int n) {
 
-        if(row == n){
+        // all queens placed
+        if(row == n) {
             ans.push_back(board);
             return;
         }
 
-        for(int i =0;i < n;i++){
+        // try every column
+        for(int col = 0; col < n; col++) {
 
-            if(isSafe(row,i,n,board)){
+            // valid position
+            if(isSafe(row, col, board, n)) {
 
-                board[row][i] = 'Q';
+                // choose
+                board[row][col] = 'Q';
 
-                solve(row+1,n,board);
+                // explore next row
+                solve(row + 1, board, n);
 
-                board[row][i] = '.';
+                // backtrack
+                board[row][col] = '.';
             }
         }
-
-        return;
     }
+
     vector<vector<string>> solveNQueens(int n) {
+
         vector<string> board(n, string(n, '.'));
-        solve(0,n,board);
+
+        solve(0, board, n);
 
         return ans;
     }
