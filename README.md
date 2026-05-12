@@ -71,6 +71,7 @@ A collection of DSA problems that made me question my life choices. Includes my 
 | [0046-permutations](https://github.com/jxt1nn/dsa-log/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/jxt1nn/dsa-log/tree/master/0047-permutations-ii) |
 | [0048-rotate-image](https://github.com/jxt1nn/dsa-log/tree/master/0048-rotate-image) |
+| [0051-n-queens](https://github.com/jxt1nn/dsa-log/tree/master/0051-n-queens) |
 | [0055-jump-game](https://github.com/jxt1nn/dsa-log/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/jxt1nn/dsa-log/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/jxt1nn/dsa-log/tree/master/0057-insert-interval) |
@@ -237,6 +238,7 @@ A collection of DSA problems that made me question my life choices. Includes my 
 | [0040-combination-sum-ii](https://github.com/jxt1nn/dsa-log/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/jxt1nn/dsa-log/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/jxt1nn/dsa-log/tree/master/0047-permutations-ii) |
+| [0051-n-queens](https://github.com/jxt1nn/dsa-log/tree/master/0051-n-queens) |
 | [0078-subsets](https://github.com/jxt1nn/dsa-log/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/jxt1nn/dsa-log/tree/master/0090-subsets-ii) |
 | [0093-restore-ip-addresses](https://github.com/jxt1nn/dsa-log/tree/master/0093-restore-ip-addresses) |
