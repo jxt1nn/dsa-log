@@ -1,140 +1,449 @@
 /*
+
 we have to place n queens on a n*n chess board 
 
-such no queen attack each other 
+such that no queen attack each other
 
-cna we place more than one queen in a row????????
-NOOOOOOOOO 
 
-bocz ttheyv attcak each other 
+how queen attack?????????????
 
-so what is the wuestion now 
-how to place n queens in n rows 
+queen can attack:
 
-return all distinct solutions to the n-queens puzzle
-    scream BACKTACKING.........
+1. same row
+2. same column
+3. diagonals
 
-LETS ASSUME, 
 
-we have a n * n
+can we place more than one queen in a row???????????
 
-and we have to place n queens
+NOOOOOOOOO
 
-what are the choics for 1 queen???
+because they attack each other
 
-we can place it on any index of queen row
-BUT it should be safe index 
-means no oyther queen can attak us
 
-so what are the states of recursion?????????
+SO THE REAL QUESTION BECOMES?????????????
 
-solve(row,numberOfQueen)
+how to place ONE queen
+in EVERY row safely
 
-what are the choice we have 
 
-for(int i = 0;i < n;i++)
+return all distinct solutions
 
-if(valid){
-    choose 
-    explore 
-    backtrack 
+SCREAMS BACKTRACKING..............
+
+
+what is the main recursion thinking?????????????
+
+At every row ask:
+
+"which column should contain current row queen?"
+
+
+THAT generates recursion tree
+
+
+
+we have n*n board
+
+and we need to place n queens
+
+
+what are the choices for one queen?????????????
+
+we can place it in ANY column
+of current row
+
+BUTTTTTTTTT
+
+position should be SAFE
+
+
+means:
+
+no other queen can attack us
+
+
+
+IMPORTANT OBSERVATION?????????????
+
+we place queens ROW BY ROW
+
+so:
+
+row0 queen
+then row1 queen
+then row2 queen
+...
+
+means current row is always empty initially
+
+
+THAT IS WHY:
+
+we don't need to check current row
+
+because we place only ONE queen per row
+
+
+
+what are the states of recursion?????????????
+
+
+solve(row)
+
+
+why only row?????????????
+
+because:
+
+if row = 0
+means 0 queens placed
+
+if row = 1
+means 1 queen already placed
+
+if row = 2
+means 2 queens already placed
+
+
+so row itself tells
+how many queens are already placed
+
+
+NO NEED:
+
+solve(row,queenCount)
+
+
+
+what are the choices?????????????
+
+
+for(int col = 0; col < n; col++){
+
+    if(validPosition){
+
+        choose
+
+        explore
+
+        backtrack
+    }
 }
 
 
-what is the abse case?
 
-if(row == n && queen == 0){
-    store 
+what is the base case?????????????
+
+
+if(row == n){
+
+    store current board
+
     return
 }
 
 
-lets dry run..........
+why?????????????
 
-write  the loop.......
+because:
 
-for(int i = 0;i < n;i++){
-    if(validPosition(i)){
-        m[row][i] = "Q"
-
-        solve(row+1,queen-1);
-
-        m[row][i] = "."
-
-    }
-}
+we successfully placed queens
+in all rows
 
 
 
-we have to write the validPosition fuction...
+how to represent board?????????????
 
-what are we do n that function........
 
-1. check if already any queen present in this column 
+vector<string> board(n, string(n,'.'));
 
-2. check if its upper digoanls conatin any queen
 
-IMPORTANT 
+example for n = 4
 
-no need to check below bcoz we make answer gradually 
 
-how to check column????????
+....
+....
+....
+....
 
-for(int i =0;i < n;i++){
-    if(m[i][col] == 'Q'){
+
+
+when placing queen?????????????
+
+
+board[row][col] = 'Q';
+
+
+example:
+
+
+.Q..
+....
+....
+....
+
+
+
+after backtracking?????????????
+
+
+board[row][col] = '.';
+
+
+VERY IMPORTANT:
+
+we UNDO current choice
+so other possibilities can be explored
+
+
+
+what is validPosition function?????????????
+
+
+we need to check:
+
+1. same column
+2. left upper diagonal
+3. right upper diagonal
+
+
+IMPORTANT:
+
+NO NEED TO CHECK BELOW
+
+because recursion builds answer gradually
+
+future rows are still empty
+
+
+
+how to check column?????????????
+
+
+for(int i = 0; i < row; i++){
+
+    if(board[i][col] == 'Q'){
         return false;
     }
 }
 
 
-how to check both the dignoal???????????
+IMPORTANT:
 
-left digonal.......
+only check ABOVE current row
 
-for example n is 4
+not whole matrix
 
-and we are on (2,2)
-left digoanls of (2,2) are
 
-(1,1) (0,0)
 
-means at ever step
+how to check LEFT diagonal?????????????
+
+
+example:
+
+current cell = (2,2)
+
+left upper diagonal cells:
+
+(1,1)
+(0,0)
+
+
+pattern?????????????
+
 (row-1,col-1)
 
-and some where the hit the boundary of the matrix 
-and that the end
 
-int x  = row
-int y = col
+code:
 
+
+int x = row;
+int y = col;
 
 while(x >= 0 && y >= 0){
-    if((x,y) == "Q"){
+
+    if(board[x][y] == 'Q'){
         return false;
     }
+
     x--;
     y--;
 }
 
-now check right digoanls
-
-wht happens in right dihgonals
 
 
-for example n is 4
+how to check RIGHT diagonal?????????????
 
-and we are on (2,2)
-left digoanls of (2,2) are
 
-(1,3) 
+example:
 
-means at ever step
+current cell = (2,2)
+
+right upper diagonal:
+
+(1,3)
+
+
+pattern?????????????
 
 (row-1,col+1)
 
-at the end of the function return true;
+
+code:
 
 
+x = row;
+y = col;
+
+while(x >= 0 && y < n){
+
+    if(board[x][y] == 'Q'){
+        return false;
+    }
+
+    x--;
+    y++;
+}
+
+
+
+if all checks pass?????????????
+
+
+return true;
+
+
+
+what is choose explore backtrack?????????????
+
+
+CHOOSE:
+
+board[row][col] = 'Q';
+
+
+EXPLORE:
+
+solve(row+1);
+
+
+BACKTRACK:
+
+board[row][col] = '.';
+
+
+
+WHY BACKTRACKING?????????????
+
+
+because current queen placement
+may fail later
+
+
+example:
+
+queen at row0 col0
+
+later maybe no safe position exists
+for row3
+
+
+SO:
+
+undo old queen placement
+
+and try another column
+
+
+
+THIS IS BACKTRACKING................
+
+
+
+DRY RUN IDEA?????????????
+
+
+n = 4
+
+
+row = 0
+
+choices:
+
+place queen at:
+
+(0,0)
+(0,1)
+(0,2)
+(0,3)
+
+
+suppose:
+
+place at (0,1)
+
+
+board:
+
+
+.Q..
+....
+....
+....
+
+
+now solve(row+1)
+
+
+row = 1
+
+try every column
+
+skip unsafe columns
+
+place queen on safe column
+
+
+continue recursively
+
+
+
+MOST IMPORTANT INTUITION?????????????
+
+
+THIS PROBLEM IS NOT:
+
+"fill matrix"
+
+
+THIS PROBLEM IS:
+
+"choose safe column for every row"
+
+
+Every recursive level asks:
+
+"which column should contain current row queen?"
+
+
+THAT SINGLE QUESTION
+GENERATES ENTIRE SOLUTION
+
+
+
+TIME COMPLEXITY?????????????
+
+roughly:
+
+O(N!)
+
+because:
+
+first row -> n choices
+second row -> n-1 choices
+third row -> n-2 choices
+...
 
 
 */
