@@ -53,6 +53,7 @@ A collection of DSA problems that made me question my life choices. Includes my 
 |  |
 | ------- |
 | [1094-car-pooling](https://github.com/jxt1nn/dsa-log/tree/master/1094-car-pooling) |
+| [1674-minimum-moves-to-make-array-complementary](https://github.com/jxt1nn/dsa-log/tree/master/1674-minimum-moves-to-make-array-complementary) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/jxt1nn/dsa-log/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [2615-sum-of-distances](https://github.com/jxt1nn/dsa-log/tree/master/2615-sum-of-distances) |
 | [2848-points-that-intersect-with-cars](https://github.com/jxt1nn/dsa-log/tree/master/2848-points-that-intersect-with-cars) |
@@ -93,6 +94,7 @@ A collection of DSA problems that made me question my life choices. Includes my 
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/jxt1nn/dsa-log/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/jxt1nn/dsa-log/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/jxt1nn/dsa-log/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
+| [1674-minimum-moves-to-make-array-complementary](https://github.com/jxt1nn/dsa-log/tree/master/1674-minimum-moves-to-make-array-complementary) |
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/jxt1nn/dsa-log/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/jxt1nn/dsa-log/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1848-minimum-distance-to-the-target-element](https://github.com/jxt1nn/dsa-log/tree/master/1848-minimum-distance-to-the-target-element) |
@@ -348,6 +350,7 @@ A collection of DSA problems that made me question my life choices. Includes my 
 | [0763-partition-labels](https://github.com/jxt1nn/dsa-log/tree/master/0763-partition-labels) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/jxt1nn/dsa-log/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0874-walking-robot-simulation](https://github.com/jxt1nn/dsa-log/tree/master/0874-walking-robot-simulation) |
+| [1674-minimum-moves-to-make-array-complementary](https://github.com/jxt1nn/dsa-log/tree/master/1674-minimum-moves-to-make-array-complementary) |
 | [2615-sum-of-distances](https://github.com/jxt1nn/dsa-log/tree/master/2615-sum-of-distances) |
 | [2848-points-that-intersect-with-cars](https://github.com/jxt1nn/dsa-log/tree/master/2848-points-that-intersect-with-cars) |
 | [3488-closest-equal-element-queries](https://github.com/jxt1nn/dsa-log/tree/master/3488-closest-equal-element-queries) |
