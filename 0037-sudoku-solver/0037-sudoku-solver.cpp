@@ -41,11 +41,17 @@ we start from 1st row and try to fill......
 
     solve(board)
 
-    Find an empty cell
+    base case :
+    if(row == 9)
+        return true;
 
-    If no empty cell:
-        sudoku solved
-        return true
+    int newRow = row;
+    int newCol = col+1;
+
+        if(newCol == 9){
+            newRow = row+1;
+            newCol = 0;
+        }
 
     Try numbers 1 → 9
 
@@ -62,6 +68,125 @@ we start from 1st row and try to fill......
         return false
  
 
+
+    how to write isSafe fucntion:
+
+    col check
+    row check 
+
+    
+We need to check the current 3x3 box.
+
+For any cell (row, col),
+we must find:
+
+    top-left starting cell of its box
+
+
+Sudoku boxes start from:
+
+    (0,0)  (0,3)  (0,6)
+
+    (3,0)  (3,3)  (3,6)
+
+    (6,0)  (6,3)  (6,6)
+
+
+Notice:
+
+    every box starts at multiples of 3
+
+
+-----------------------------------
+HOW THIS WORKS
+-----------------------------------
+
+Suppose:
+
+    row = 5
+    col = 7
+
+
+STEP 1:
+
+    row / 3
+
+    5 / 3 = 1
+
+This tells:
+
+    current row belongs to box-group 1
+
+Groups are:
+
+    rows 0-2 -> group 0
+    rows 3-5 -> group 1
+    rows 6-8 -> group 2
+
+
+STEP 2:
+
+    (row / 3) * 3
+
+    1 * 3 = 3
+
+So starting row becomes:
+
+    3
+
+
+Same for column:
+
+    col / 3
+
+    7 / 3 = 2
+
+    2 * 3 = 6
+
+So starting col becomes:
+
+    6
+
+
+Final answer:
+
+    cell (5,7)
+
+belongs to box starting from:
+
+    (3,6)
+
+
+That box is:
+
+    (3,6) (3,7) (3,8)
+
+    (4,6) (4,7) (4,8)
+
+    (5,6) (5,7) (5,8)
+
+
+-----------------------------------
+FORMULA
+-----------------------------------
+
+    int startRow = (row / 3) * 3;
+    int startCol = (col / 3) * 3;
+
+
+Division tells:
+
+    WHICH box
+
+Multiplication tells:
+
+    STARTING index of that box
+
+
+    3*3 grid check
+
+     for(int i = startRow ; i < startRow+3;i++){
+        for(int j =startCol; j < startCol+3;j++){
 */
 class Solution {
 public:
