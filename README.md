@@ -229,6 +229,7 @@ A collection of DSA problems that made me question my life choices. Includes my 
 ## String
 |  |
 | ------- |
+| [0017-letter-combinations-of-a-phone-number](https://github.com/jxt1nn/dsa-log/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/jxt1nn/dsa-log/tree/master/0022-generate-parentheses) |
 | [0093-restore-ip-addresses](https://github.com/jxt1nn/dsa-log/tree/master/0093-restore-ip-addresses) |
 | [0131-palindrome-partitioning](https://github.com/jxt1nn/dsa-log/tree/master/0131-palindrome-partitioning) |
@@ -248,6 +249,7 @@ A collection of DSA problems that made me question my life choices. Includes my 
 ## Backtracking
 |  |
 | ------- |
+| [0017-letter-combinations-of-a-phone-number](https://github.com/jxt1nn/dsa-log/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/jxt1nn/dsa-log/tree/master/0022-generate-parentheses) |
 | [0037-sudoku-solver](https://github.com/jxt1nn/dsa-log/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/jxt1nn/dsa-log/tree/master/0039-combination-sum) |
@@ -361,6 +363,7 @@ A collection of DSA problems that made me question my life choices. Includes my 
 ## Hash Table
 |  |
 | ------- |
+| [0017-letter-combinations-of-a-phone-number](https://github.com/jxt1nn/dsa-log/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0037-sudoku-solver](https://github.com/jxt1nn/dsa-log/tree/master/0037-sudoku-solver) |
 | [0146-lru-cache](https://github.com/jxt1nn/dsa-log/tree/master/0146-lru-cache) |
 | [0763-partition-labels](https://github.com/jxt1nn/dsa-log/tree/master/0763-partition-labels) |
