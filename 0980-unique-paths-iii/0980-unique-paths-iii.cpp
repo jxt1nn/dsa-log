@@ -134,16 +134,19 @@ public:
             
                 // mark visited
                 vis[row][col] = 1;
+                visitedCount++;
 
                 dfs(grid,
                     nr,
                     nc,
-                    visitedCount + 1,
+                    visitedCount,
                     totalCells,
                     vis);
 
                 // backtrack
                 vis[row][col] = 0;
+                visitedCount--;
+
             }
         }
 
