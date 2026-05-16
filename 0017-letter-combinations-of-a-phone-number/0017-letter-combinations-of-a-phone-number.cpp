@@ -41,15 +41,65 @@
 
     }
 
-    how we loop on a practicular digit map charcters????
+    how we loop on a particular digit map characters???
 
-    vector<vector<string>> 
-    then start mapping 
+    example:
+        digits = "23"
+
+        digit '2' -> "abc"
+        digit '3' -> "def"
+
+    so for each digit:
+        we need all characters mapped to it
 
 
+    WRONG IDEA:
+        vector<vector<string>>
+        (NOT needed, overkill ❌)
 
 
+    CORRECT IDEA:
 
+        use direct mapping array:
+
+        string mapping[10] = {
+            "", "", "abc", "def", "ghi", "jkl",
+            "mno", "pqrs", "tuv", "wxyz"
+        };
+
+
+    WHY THIS WORKS???
+
+        digit is a character:
+            '2', '3', etc.
+
+        convert it to index:
+            digits[index] - '0'
+
+
+        example:
+            '2' - '0' = 2
+            so mapping[2] = "abc"
+
+
+    SO LOOP BECOMES:
+
+        string letters = mapping[digits[index] - '0'];
+
+        for(each char in letters){
+
+            choose character
+            go deeper
+            undo (pop)
+        }
+
+
+    FINAL FLOW:
+
+        for each digit:
+            get its string of letters
+            try every letter
+            backtrack
 
 
 
