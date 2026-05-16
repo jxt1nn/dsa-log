@@ -109,7 +109,7 @@ public:
 
     vector<string> ans;
 
-    string mapping[10] = {
+    vector<string> mapping = {
         "", "", "abc", "def", "ghi", "jkl",
         "mno", "pqrs", "tuv", "wxyz"
     };
