@@ -91,6 +91,7 @@ A collection of DSA problems that made me question my life choices. Includes my 
 | [0860-lemonade-change](https://github.com/jxt1nn/dsa-log/tree/master/0860-lemonade-change) |
 | [0874-walking-robot-simulation](https://github.com/jxt1nn/dsa-log/tree/master/0874-walking-robot-simulation) |
 | [0877-stone-game](https://github.com/jxt1nn/dsa-log/tree/master/0877-stone-game) |
+| [0980-unique-paths-iii](https://github.com/jxt1nn/dsa-log/tree/master/0980-unique-paths-iii) |
 | [1094-car-pooling](https://github.com/jxt1nn/dsa-log/tree/master/1094-car-pooling) |
 | [1219-path-with-maximum-gold](https://github.com/jxt1nn/dsa-log/tree/master/1219-path-with-maximum-gold) |
 | [1326-minimum-number-of-taps-to-open-to-water-a-garden](https://github.com/jxt1nn/dsa-log/tree/master/1326-minimum-number-of-taps-to-open-to-water-a-garden) |
@@ -260,6 +261,7 @@ A collection of DSA problems that made me question my life choices. Includes my 
 | [0093-restore-ip-addresses](https://github.com/jxt1nn/dsa-log/tree/master/0093-restore-ip-addresses) |
 | [0131-palindrome-partitioning](https://github.com/jxt1nn/dsa-log/tree/master/0131-palindrome-partitioning) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/jxt1nn/dsa-log/tree/master/0698-partition-to-k-equal-sum-subsets) |
+| [0980-unique-paths-iii](https://github.com/jxt1nn/dsa-log/tree/master/0980-unique-paths-iii) |
 | [1219-path-with-maximum-gold](https://github.com/jxt1nn/dsa-log/tree/master/1219-path-with-maximum-gold) |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/jxt1nn/dsa-log/tree/master/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [2305-fair-distribution-of-cookies](https://github.com/jxt1nn/dsa-log/tree/master/2305-fair-distribution-of-cookies) |
@@ -281,6 +283,7 @@ A collection of DSA problems that made me question my life choices. Includes my 
 | [0037-sudoku-solver](https://github.com/jxt1nn/dsa-log/tree/master/0037-sudoku-solver) |
 | [0048-rotate-image](https://github.com/jxt1nn/dsa-log/tree/master/0048-rotate-image) |
 | [0085-maximal-rectangle](https://github.com/jxt1nn/dsa-log/tree/master/0085-maximal-rectangle) |
+| [0980-unique-paths-iii](https://github.com/jxt1nn/dsa-log/tree/master/0980-unique-paths-iii) |
 | [1219-path-with-maximum-gold](https://github.com/jxt1nn/dsa-log/tree/master/1219-path-with-maximum-gold) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/jxt1nn/dsa-log/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/jxt1nn/dsa-log/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
@@ -394,6 +397,7 @@ A collection of DSA problems that made me question my life choices. Includes my 
 | [0078-subsets](https://github.com/jxt1nn/dsa-log/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/jxt1nn/dsa-log/tree/master/0090-subsets-ii) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/jxt1nn/dsa-log/tree/master/0698-partition-to-k-equal-sum-subsets) |
+| [0980-unique-paths-iii](https://github.com/jxt1nn/dsa-log/tree/master/0980-unique-paths-iii) |
 | [2305-fair-distribution-of-cookies](https://github.com/jxt1nn/dsa-log/tree/master/2305-fair-distribution-of-cookies) |
 | [2850-minimum-moves-to-spread-stones-over-grid](https://github.com/jxt1nn/dsa-log/tree/master/2850-minimum-moves-to-spread-stones-over-grid) |
 ## Bitmask
