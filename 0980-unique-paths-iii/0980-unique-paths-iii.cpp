@@ -178,7 +178,7 @@ public:
         vector<vector<int>> vis(n,
                                 vector<int>(m, 0));
 
-        vis[startRow][startCol] = -1;
+        vis[startRow][startCol] = 1;
         dfs(grid,
             startRow,
             startCol,
