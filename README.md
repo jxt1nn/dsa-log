@@ -94,6 +94,7 @@ A collection of DSA problems that made me question my life choices. Includes my 
 | [0980-unique-paths-iii](https://github.com/jxt1nn/dsa-log/tree/master/0980-unique-paths-iii) |
 | [1094-car-pooling](https://github.com/jxt1nn/dsa-log/tree/master/1094-car-pooling) |
 | [1219-path-with-maximum-gold](https://github.com/jxt1nn/dsa-log/tree/master/1219-path-with-maximum-gold) |
+| [1306-jump-game-iii](https://github.com/jxt1nn/dsa-log/tree/master/1306-jump-game-iii) |
 | [1326-minimum-number-of-taps-to-open-to-water-a-garden](https://github.com/jxt1nn/dsa-log/tree/master/1326-minimum-number-of-taps-to-open-to-water-a-garden) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/jxt1nn/dsa-log/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/jxt1nn/dsa-log/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
@@ -352,6 +353,7 @@ A collection of DSA problems that made me question my life choices. Includes my 
 | [0637-average-of-levels-in-binary-tree](https://github.com/jxt1nn/dsa-log/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/jxt1nn/dsa-log/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0993-cousins-in-binary-tree](https://github.com/jxt1nn/dsa-log/tree/master/0993-cousins-in-binary-tree) |
+| [1306-jump-game-iii](https://github.com/jxt1nn/dsa-log/tree/master/1306-jump-game-iii) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/jxt1nn/dsa-log/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/jxt1nn/dsa-log/tree/master/1559-detect-cycles-in-2d-grid) |
 | [2596-check-knight-tour-configuration](https://github.com/jxt1nn/dsa-log/tree/master/2596-check-knight-tour-configuration) |
@@ -449,6 +451,7 @@ A collection of DSA problems that made me question my life choices. Includes my 
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/jxt1nn/dsa-log/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0968-binary-tree-cameras](https://github.com/jxt1nn/dsa-log/tree/master/0968-binary-tree-cameras) |
 | [0993-cousins-in-binary-tree](https://github.com/jxt1nn/dsa-log/tree/master/0993-cousins-in-binary-tree) |
+| [1306-jump-game-iii](https://github.com/jxt1nn/dsa-log/tree/master/1306-jump-game-iii) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/jxt1nn/dsa-log/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/jxt1nn/dsa-log/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/jxt1nn/dsa-log/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
