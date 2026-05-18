@@ -96,6 +96,7 @@ A collection of DSA problems that made me question my life choices. Includes my 
 | [1219-path-with-maximum-gold](https://github.com/jxt1nn/dsa-log/tree/master/1219-path-with-maximum-gold) |
 | [1306-jump-game-iii](https://github.com/jxt1nn/dsa-log/tree/master/1306-jump-game-iii) |
 | [1326-minimum-number-of-taps-to-open-to-water-a-garden](https://github.com/jxt1nn/dsa-log/tree/master/1326-minimum-number-of-taps-to-open-to-water-a-garden) |
+| [1345-jump-game-iv](https://github.com/jxt1nn/dsa-log/tree/master/1345-jump-game-iv) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/jxt1nn/dsa-log/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/jxt1nn/dsa-log/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/jxt1nn/dsa-log/tree/master/1559-detect-cycles-in-2d-grid) |
@@ -354,6 +355,7 @@ A collection of DSA problems that made me question my life choices. Includes my 
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/jxt1nn/dsa-log/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0993-cousins-in-binary-tree](https://github.com/jxt1nn/dsa-log/tree/master/0993-cousins-in-binary-tree) |
 | [1306-jump-game-iii](https://github.com/jxt1nn/dsa-log/tree/master/1306-jump-game-iii) |
+| [1345-jump-game-iv](https://github.com/jxt1nn/dsa-log/tree/master/1345-jump-game-iv) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/jxt1nn/dsa-log/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/jxt1nn/dsa-log/tree/master/1559-detect-cycles-in-2d-grid) |
 | [2596-check-knight-tour-configuration](https://github.com/jxt1nn/dsa-log/tree/master/2596-check-knight-tour-configuration) |
@@ -371,6 +373,7 @@ A collection of DSA problems that made me question my life choices. Includes my 
 | [0763-partition-labels](https://github.com/jxt1nn/dsa-log/tree/master/0763-partition-labels) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/jxt1nn/dsa-log/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0874-walking-robot-simulation](https://github.com/jxt1nn/dsa-log/tree/master/0874-walking-robot-simulation) |
+| [1345-jump-game-iv](https://github.com/jxt1nn/dsa-log/tree/master/1345-jump-game-iv) |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/jxt1nn/dsa-log/tree/master/1674-minimum-moves-to-make-array-complementary) |
 | [2615-sum-of-distances](https://github.com/jxt1nn/dsa-log/tree/master/2615-sum-of-distances) |
 | [2784-check-if-array-is-good](https://github.com/jxt1nn/dsa-log/tree/master/2784-check-if-array-is-good) |
