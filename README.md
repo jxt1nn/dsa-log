@@ -8,6 +8,7 @@ A collection of DSA problems that made me question my life choices. Includes my 
 | ------- |
 | [0022-generate-parentheses](https://github.com/jxt1nn/dsa-log/tree/master/0022-generate-parentheses) |
 | [0045-jump-game-ii](https://github.com/jxt1nn/dsa-log/tree/master/0045-jump-game-ii) |
+| [0053-maximum-subarray](https://github.com/jxt1nn/dsa-log/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/jxt1nn/dsa-log/tree/master/0055-jump-game) |
 | [0085-maximal-rectangle](https://github.com/jxt1nn/dsa-log/tree/master/0085-maximal-rectangle) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/jxt1nn/dsa-log/tree/master/0124-binary-tree-maximum-path-sum) |
@@ -74,6 +75,7 @@ A collection of DSA problems that made me question my life choices. Includes my 
 | [0047-permutations-ii](https://github.com/jxt1nn/dsa-log/tree/master/0047-permutations-ii) |
 | [0048-rotate-image](https://github.com/jxt1nn/dsa-log/tree/master/0048-rotate-image) |
 | [0051-n-queens](https://github.com/jxt1nn/dsa-log/tree/master/0051-n-queens) |
+| [0053-maximum-subarray](https://github.com/jxt1nn/dsa-log/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/jxt1nn/dsa-log/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/jxt1nn/dsa-log/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/jxt1nn/dsa-log/tree/master/0057-insert-interval) |
@@ -401,6 +403,7 @@ A collection of DSA problems that made me question my life choices. Includes my 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/jxt1nn/dsa-log/tree/master/0053-maximum-subarray) |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/jxt1nn/dsa-log/tree/master/3653-xor-after-range-multiplication-queries-i) |
 | [3655-xor-after-range-multiplication-queries-ii](https://github.com/jxt1nn/dsa-log/tree/master/3655-xor-after-range-multiplication-queries-ii) |
 ## Bit Manipulation
