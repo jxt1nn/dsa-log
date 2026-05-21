@@ -134,6 +134,7 @@ A collection of DSA problems that made me question my life choices. Includes my 
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/jxt1nn/dsa-log/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3033-modify-the-matrix](https://github.com/jxt1nn/dsa-log/tree/master/3033-modify-the-matrix) |
 | [3034-number-of-subarrays-that-match-a-pattern-i](https://github.com/jxt1nn/dsa-log/tree/master/3034-number-of-subarrays-that-match-a-pattern-i) |
+| [3043-find-the-length-of-the-longest-common-prefix](https://github.com/jxt1nn/dsa-log/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/jxt1nn/dsa-log/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 | [3225-maximum-score-from-grid-operations](https://github.com/jxt1nn/dsa-log/tree/master/3225-maximum-score-from-grid-operations) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/jxt1nn/dsa-log/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
@@ -256,6 +257,7 @@ A collection of DSA problems that made me question my life choices. Includes my 
 | [2452-words-within-two-edits-of-dictionary](https://github.com/jxt1nn/dsa-log/tree/master/2452-words-within-two-edits-of-dictionary) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/jxt1nn/dsa-log/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
 | [2833-furthest-point-from-origin](https://github.com/jxt1nn/dsa-log/tree/master/2833-furthest-point-from-origin) |
+| [3043-find-the-length-of-the-longest-common-prefix](https://github.com/jxt1nn/dsa-log/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 ## Backtracking
 |  |
 | ------- |
@@ -388,6 +390,7 @@ A collection of DSA problems that made me question my life choices. Includes my 
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/jxt1nn/dsa-log/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [2784-check-if-array-is-good](https://github.com/jxt1nn/dsa-log/tree/master/2784-check-if-array-is-good) |
 | [2848-points-that-intersect-with-cars](https://github.com/jxt1nn/dsa-log/tree/master/2848-points-that-intersect-with-cars) |
+| [3043-find-the-length-of-the-longest-common-prefix](https://github.com/jxt1nn/dsa-log/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3488-closest-equal-element-queries](https://github.com/jxt1nn/dsa-log/tree/master/3488-closest-equal-element-queries) |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/jxt1nn/dsa-log/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/jxt1nn/dsa-log/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
@@ -502,6 +505,7 @@ A collection of DSA problems that made me question my life choices. Includes my 
 |  |
 | ------- |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/jxt1nn/dsa-log/tree/master/2452-words-within-two-edits-of-dictionary) |
+| [3043-find-the-length-of-the-longest-common-prefix](https://github.com/jxt1nn/dsa-log/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 ## Counting
 |  |
 | ------- |
