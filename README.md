@@ -68,6 +68,7 @@ A collection of DSA problems that made me question my life choices. Includes my 
 |  |
 | ------- |
 | [0031-next-permutation](https://github.com/jxt1nn/dsa-log/tree/master/0031-next-permutation) |
+| [0033-search-in-rotated-sorted-array](https://github.com/jxt1nn/dsa-log/tree/master/0033-search-in-rotated-sorted-array) |
 | [0037-sudoku-solver](https://github.com/jxt1nn/dsa-log/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/jxt1nn/dsa-log/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/jxt1nn/dsa-log/tree/master/0040-combination-sum-ii) |
@@ -167,6 +168,7 @@ A collection of DSA problems that made me question my life choices. Includes my 
 ## Binary Search
 |  |
 | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/jxt1nn/dsa-log/tree/master/0033-search-in-rotated-sorted-array) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/jxt1nn/dsa-log/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/jxt1nn/dsa-log/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/jxt1nn/dsa-log/tree/master/1855-maximum-distance-between-a-pair-of-values) |
