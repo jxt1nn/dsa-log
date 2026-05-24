@@ -25,6 +25,7 @@ A collection of DSA problems that made me question my life choices. Includes my 
 | [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/jxt1nn/dsa-log/tree/master/1320-minimum-distance-to-type-a-word-using-two-fingers) |
 | [1326-minimum-number-of-taps-to-open-to-water-a-garden](https://github.com/jxt1nn/dsa-log/tree/master/1326-minimum-number-of-taps-to-open-to-water-a-garden) |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/jxt1nn/dsa-log/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
+| [1340-jump-game-v](https://github.com/jxt1nn/dsa-log/tree/master/1340-jump-game-v) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/jxt1nn/dsa-log/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/jxt1nn/dsa-log/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 | [2305-fair-distribution-of-cookies](https://github.com/jxt1nn/dsa-log/tree/master/2305-fair-distribution-of-cookies) |
@@ -101,6 +102,7 @@ A collection of DSA problems that made me question my life choices. Includes my 
 | [1219-path-with-maximum-gold](https://github.com/jxt1nn/dsa-log/tree/master/1219-path-with-maximum-gold) |
 | [1306-jump-game-iii](https://github.com/jxt1nn/dsa-log/tree/master/1306-jump-game-iii) |
 | [1326-minimum-number-of-taps-to-open-to-water-a-garden](https://github.com/jxt1nn/dsa-log/tree/master/1326-minimum-number-of-taps-to-open-to-water-a-garden) |
+| [1340-jump-game-v](https://github.com/jxt1nn/dsa-log/tree/master/1340-jump-game-v) |
 | [1345-jump-game-iv](https://github.com/jxt1nn/dsa-log/tree/master/1345-jump-game-iv) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/jxt1nn/dsa-log/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/jxt1nn/dsa-log/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
@@ -187,6 +189,7 @@ A collection of DSA problems that made me question my life choices. Includes my 
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/jxt1nn/dsa-log/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0455-assign-cookies](https://github.com/jxt1nn/dsa-log/tree/master/0455-assign-cookies) |
 | [1094-car-pooling](https://github.com/jxt1nn/dsa-log/tree/master/1094-car-pooling) |
+| [1340-jump-game-v](https://github.com/jxt1nn/dsa-log/tree/master/1340-jump-game-v) |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/jxt1nn/dsa-log/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/jxt1nn/dsa-log/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/jxt1nn/dsa-log/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
