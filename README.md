@@ -39,6 +39,7 @@ A collection of DSA problems that made me question my life choices. Includes my 
 | [3660-jump-game-ix](https://github.com/jxt1nn/dsa-log/tree/master/3660-jump-game-ix) |
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/jxt1nn/dsa-log/tree/master/3661-maximum-walls-destroyed-by-robots) |
 | [3742-maximum-path-score-in-a-grid](https://github.com/jxt1nn/dsa-log/tree/master/3742-maximum-path-score-in-a-grid) |
+| [3751-total-waviness-of-numbers-in-range-i](https://github.com/jxt1nn/dsa-log/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 ## Graph Theory
 |  |
 | ------- |
@@ -225,6 +226,7 @@ A collection of DSA problems that made me question my life choices. Includes my 
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/jxt1nn/dsa-log/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/jxt1nn/dsa-log/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/jxt1nn/dsa-log/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
+| [3751-total-waviness-of-numbers-in-range-i](https://github.com/jxt1nn/dsa-log/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/jxt1nn/dsa-log/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
 | [3783-mirror-distance-of-an-integer](https://github.com/jxt1nn/dsa-log/tree/master/3783-mirror-distance-of-an-integer) |
 ## Game Theory
@@ -354,6 +356,7 @@ A collection of DSA problems that made me question my life choices. Includes my 
 |  |
 | ------- |
 | [3546-equal-sum-grid-partition-i](https://github.com/jxt1nn/dsa-log/tree/master/3546-equal-sum-grid-partition-i) |
+| [3751-total-waviness-of-numbers-in-range-i](https://github.com/jxt1nn/dsa-log/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 ## Simulation
 |  |
 | ------- |
