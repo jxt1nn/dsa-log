@@ -124,6 +124,7 @@ A collection of DSA problems that made me question my life choices. Includes my 
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/jxt1nn/dsa-log/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/jxt1nn/dsa-log/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2126-destroying-asteroids](https://github.com/jxt1nn/dsa-log/tree/master/2126-destroying-asteroids) |
+| [2161-partition-array-according-to-given-pivot](https://github.com/jxt1nn/dsa-log/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/jxt1nn/dsa-log/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/jxt1nn/dsa-log/tree/master/2300-successful-pairs-of-spells-and-potions) |
 | [2305-fair-distribution-of-cookies](https://github.com/jxt1nn/dsa-log/tree/master/2305-fair-distribution-of-cookies) |
@@ -173,6 +174,7 @@ A collection of DSA problems that made me question my life choices. Includes my 
 | [0763-partition-labels](https://github.com/jxt1nn/dsa-log/tree/master/0763-partition-labels) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/jxt1nn/dsa-log/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [1861-rotating-the-box](https://github.com/jxt1nn/dsa-log/tree/master/1861-rotating-the-box) |
+| [2161-partition-array-according-to-given-pivot](https://github.com/jxt1nn/dsa-log/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/jxt1nn/dsa-log/tree/master/2300-successful-pairs-of-spells-and-potions) |
 | [2540-minimum-common-value](https://github.com/jxt1nn/dsa-log/tree/master/2540-minimum-common-value) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/jxt1nn/dsa-log/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
@@ -369,6 +371,7 @@ A collection of DSA problems that made me question my life choices. Includes my 
 | [1914-cyclically-rotating-a-grid](https://github.com/jxt1nn/dsa-log/tree/master/1914-cyclically-rotating-a-grid) |
 | [2069-walking-robot-simulation-ii](https://github.com/jxt1nn/dsa-log/tree/master/2069-walking-robot-simulation-ii) |
 | [2075-decode-the-slanted-ciphertext](https://github.com/jxt1nn/dsa-log/tree/master/2075-decode-the-slanted-ciphertext) |
+| [2161-partition-array-according-to-given-pivot](https://github.com/jxt1nn/dsa-log/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2553-separate-the-digits-in-an-array](https://github.com/jxt1nn/dsa-log/tree/master/2553-separate-the-digits-in-an-array) |
 | [2596-check-knight-tour-configuration](https://github.com/jxt1nn/dsa-log/tree/master/2596-check-knight-tour-configuration) |
 | [2751-robot-collisions](https://github.com/jxt1nn/dsa-log/tree/master/2751-robot-collisions) |
