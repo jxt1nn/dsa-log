@@ -1,58 +1,49 @@
 class Solution {
 public:
-    static const int MOD = 1e9 + 7;
-
-    long long modPow(long long a, long long b) {
-        long long res = 1;
-
-        while (b) {
-            if (b & 1) {
-                res = (res * a) % MOD;
-            }
-
-            a = (a * a) % MOD;
-            b >>= 1;
-        }
-
-        return res;
-    }
-
     int assignEdgeWeights(vector<vector<int>>& edges) {
         int n = edges.size() + 1;
+        const int MOD = 1e9 + 7;
 
-        vector<vector<int>> adj(n + 1);
+        vector<vector<int>> graph(n + 1);
 
         for (auto &e : edges) {
-            int u = e[0];
-            int v = e[1];
-
-            adj[u].push_back(v);
-            adj[v].push_back(u);
+            graph[e[0]].push_back(e[1]);
+            graph[e[1]].push_back(e[0]);
         }
 
-        vector<int> depth(n + 1, -1);
         queue<int> q;
-
         q.push(1);
-        depth[1] = 0;
 
-        int maxDepth = 0;
+        vector<int> visited(n + 1, 0);
+        visited[1] = 1;
+
+        int levels = 0;
 
         while (!q.empty()) {
-            int node = q.front();
-            q.pop();
+            int sz = q.size();
 
-            for (int nei : adj[node]) {
-                if (depth[nei] == -1) {
-                    depth[nei] = depth[node] + 1;
-                    maxDepth = max(maxDepth, depth[nei]);
-                    q.push(nei);
+            while (sz--) {
+                int node = q.front();
+                q.pop();
+
+                for (int nbr : graph[node]) {
+                    if (!visited[nbr]) {
+                        visited[nbr] = 1;
+                        q.push(nbr);
+                    }
                 }
             }
+
+            levels++;
         }
 
-        if (maxDepth == 0) return 0;   // no edge in the path
+        int maxDepth = levels - 1;
 
-        return (int)modPow(2, maxDepth - 1);
+        long long ans = 1;
+        for (int i = 1; i < maxDepth; i++) {
+            ans = (ans * 2) % MOD;
+        }
+
+        return (int)ans;
     }
 };
