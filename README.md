@@ -88,6 +88,7 @@ A collection of DSA problems that made me question my life choices. Includes my 
 | [0056-merge-intervals](https://github.com/jxt1nn/dsa-log/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/jxt1nn/dsa-log/tree/master/0057-insert-interval) |
 | [0078-subsets](https://github.com/jxt1nn/dsa-log/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/jxt1nn/dsa-log/tree/master/0079-word-search) |
 | [0085-maximal-rectangle](https://github.com/jxt1nn/dsa-log/tree/master/0085-maximal-rectangle) |
 | [0090-subsets-ii](https://github.com/jxt1nn/dsa-log/tree/master/0090-subsets-ii) |
 | [0152-maximum-product-subarray](https://github.com/jxt1nn/dsa-log/tree/master/0152-maximum-product-subarray) |
@@ -279,6 +280,7 @@ A collection of DSA problems that made me question my life choices. Includes my 
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/jxt1nn/dsa-log/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/jxt1nn/dsa-log/tree/master/0022-generate-parentheses) |
+| [0079-word-search](https://github.com/jxt1nn/dsa-log/tree/master/0079-word-search) |
 | [0093-restore-ip-addresses](https://github.com/jxt1nn/dsa-log/tree/master/0093-restore-ip-addresses) |
 | [0131-palindrome-partitioning](https://github.com/jxt1nn/dsa-log/tree/master/0131-palindrome-partitioning) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/jxt1nn/dsa-log/tree/master/0297-serialize-and-deserialize-binary-tree) |
@@ -312,6 +314,7 @@ A collection of DSA problems that made me question my life choices. Includes my 
 | [0051-n-queens](https://github.com/jxt1nn/dsa-log/tree/master/0051-n-queens) |
 | [0052-n-queens-ii](https://github.com/jxt1nn/dsa-log/tree/master/0052-n-queens-ii) |
 | [0078-subsets](https://github.com/jxt1nn/dsa-log/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/jxt1nn/dsa-log/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/jxt1nn/dsa-log/tree/master/0090-subsets-ii) |
 | [0093-restore-ip-addresses](https://github.com/jxt1nn/dsa-log/tree/master/0093-restore-ip-addresses) |
 | [0131-palindrome-partitioning](https://github.com/jxt1nn/dsa-log/tree/master/0131-palindrome-partitioning) |
@@ -338,6 +341,7 @@ A collection of DSA problems that made me question my life choices. Includes my 
 | ------- |
 | [0037-sudoku-solver](https://github.com/jxt1nn/dsa-log/tree/master/0037-sudoku-solver) |
 | [0048-rotate-image](https://github.com/jxt1nn/dsa-log/tree/master/0048-rotate-image) |
+| [0079-word-search](https://github.com/jxt1nn/dsa-log/tree/master/0079-word-search) |
 | [0085-maximal-rectangle](https://github.com/jxt1nn/dsa-log/tree/master/0085-maximal-rectangle) |
 | [0980-unique-paths-iii](https://github.com/jxt1nn/dsa-log/tree/master/0980-unique-paths-iii) |
 | [1219-path-with-maximum-gold](https://github.com/jxt1nn/dsa-log/tree/master/1219-path-with-maximum-gold) |
@@ -509,6 +513,7 @@ A collection of DSA problems that made me question my life choices. Includes my 
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/jxt1nn/dsa-log/tree/master/0079-word-search) |
 | [0100-same-tree](https://github.com/jxt1nn/dsa-log/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/jxt1nn/dsa-log/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/jxt1nn/dsa-log/tree/master/0111-minimum-depth-of-binary-tree) |
