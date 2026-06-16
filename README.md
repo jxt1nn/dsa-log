@@ -92,6 +92,7 @@ A collection of DSA problems that made me question my life choices. Includes my 
 | [0079-word-search](https://github.com/jxt1nn/dsa-log/tree/master/0079-word-search) |
 | [0085-maximal-rectangle](https://github.com/jxt1nn/dsa-log/tree/master/0085-maximal-rectangle) |
 | [0090-subsets-ii](https://github.com/jxt1nn/dsa-log/tree/master/0090-subsets-ii) |
+| [0130-surrounded-regions](https://github.com/jxt1nn/dsa-log/tree/master/0130-surrounded-regions) |
 | [0152-maximum-product-subarray](https://github.com/jxt1nn/dsa-log/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/jxt1nn/dsa-log/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/jxt1nn/dsa-log/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
@@ -347,6 +348,7 @@ A collection of DSA problems that made me question my life choices. Includes my 
 | [0048-rotate-image](https://github.com/jxt1nn/dsa-log/tree/master/0048-rotate-image) |
 | [0079-word-search](https://github.com/jxt1nn/dsa-log/tree/master/0079-word-search) |
 | [0085-maximal-rectangle](https://github.com/jxt1nn/dsa-log/tree/master/0085-maximal-rectangle) |
+| [0130-surrounded-regions](https://github.com/jxt1nn/dsa-log/tree/master/0130-surrounded-regions) |
 | [0542-01-matrix](https://github.com/jxt1nn/dsa-log/tree/master/0542-01-matrix) |
 | [0980-unique-paths-iii](https://github.com/jxt1nn/dsa-log/tree/master/0980-unique-paths-iii) |
 | [0994-rotting-oranges](https://github.com/jxt1nn/dsa-log/tree/master/0994-rotting-oranges) |
@@ -414,6 +416,7 @@ A collection of DSA problems that made me question my life choices. Includes my 
 | [0111-minimum-depth-of-binary-tree](https://github.com/jxt1nn/dsa-log/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/jxt1nn/dsa-log/tree/master/0112-path-sum) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/jxt1nn/dsa-log/tree/master/0116-populating-next-right-pointers-in-each-node) |
+| [0130-surrounded-regions](https://github.com/jxt1nn/dsa-log/tree/master/0130-surrounded-regions) |
 | [0199-binary-tree-right-side-view](https://github.com/jxt1nn/dsa-log/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/jxt1nn/dsa-log/tree/master/0226-invert-binary-tree) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/jxt1nn/dsa-log/tree/master/0297-serialize-and-deserialize-binary-tree) |
@@ -530,6 +533,7 @@ A collection of DSA problems that made me question my life choices. Includes my 
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/jxt1nn/dsa-log/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/jxt1nn/dsa-log/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/jxt1nn/dsa-log/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0130-surrounded-regions](https://github.com/jxt1nn/dsa-log/tree/master/0130-surrounded-regions) |
 | [0199-binary-tree-right-side-view](https://github.com/jxt1nn/dsa-log/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/jxt1nn/dsa-log/tree/master/0226-invert-binary-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/jxt1nn/dsa-log/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
@@ -571,6 +575,7 @@ A collection of DSA problems that made me question my life choices. Includes my 
 ## Union-Find
 |  |
 | ------- |
+| [0130-surrounded-regions](https://github.com/jxt1nn/dsa-log/tree/master/0130-surrounded-regions) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/jxt1nn/dsa-log/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/jxt1nn/dsa-log/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/jxt1nn/dsa-log/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
