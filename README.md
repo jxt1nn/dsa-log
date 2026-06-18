@@ -47,6 +47,7 @@ A collection of DSA problems that made me question my life choices. Includes my 
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/jxt1nn/dsa-log/tree/master/0207-course-schedule) |
+| [0210-course-schedule-ii](https://github.com/jxt1nn/dsa-log/tree/master/0210-course-schedule-ii) |
 | [0785-is-graph-bipartite](https://github.com/jxt1nn/dsa-log/tree/master/0785-is-graph-bipartite) |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/jxt1nn/dsa-log/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/jxt1nn/dsa-log/tree/master/1976-number-of-ways-to-arrive-at-destination) |
@@ -54,6 +55,7 @@ A collection of DSA problems that made me question my life choices. Includes my 
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/jxt1nn/dsa-log/tree/master/0207-course-schedule) |
+| [0210-course-schedule-ii](https://github.com/jxt1nn/dsa-log/tree/master/0210-course-schedule-ii) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/jxt1nn/dsa-log/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 ## Shortest Path
 |  |
@@ -427,6 +429,7 @@ A collection of DSA problems that made me question my life choices. Includes my 
 | [0130-surrounded-regions](https://github.com/jxt1nn/dsa-log/tree/master/0130-surrounded-regions) |
 | [0199-binary-tree-right-side-view](https://github.com/jxt1nn/dsa-log/tree/master/0199-binary-tree-right-side-view) |
 | [0207-course-schedule](https://github.com/jxt1nn/dsa-log/tree/master/0207-course-schedule) |
+| [0210-course-schedule-ii](https://github.com/jxt1nn/dsa-log/tree/master/0210-course-schedule-ii) |
 | [0226-invert-binary-tree](https://github.com/jxt1nn/dsa-log/tree/master/0226-invert-binary-tree) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/jxt1nn/dsa-log/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0322-coin-change](https://github.com/jxt1nn/dsa-log/tree/master/0322-coin-change) |
@@ -547,6 +550,7 @@ A collection of DSA problems that made me question my life choices. Includes my 
 | [0130-surrounded-regions](https://github.com/jxt1nn/dsa-log/tree/master/0130-surrounded-regions) |
 | [0199-binary-tree-right-side-view](https://github.com/jxt1nn/dsa-log/tree/master/0199-binary-tree-right-side-view) |
 | [0207-course-schedule](https://github.com/jxt1nn/dsa-log/tree/master/0207-course-schedule) |
+| [0210-course-schedule-ii](https://github.com/jxt1nn/dsa-log/tree/master/0210-course-schedule-ii) |
 | [0226-invert-binary-tree](https://github.com/jxt1nn/dsa-log/tree/master/0226-invert-binary-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/jxt1nn/dsa-log/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/jxt1nn/dsa-log/tree/master/0297-serialize-and-deserialize-binary-tree) |
