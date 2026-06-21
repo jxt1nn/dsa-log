@@ -15,6 +15,9 @@ public:
                 cnt++;
                 coins -= nums[i];
             }
+            else{
+                break;
+            }
         }
         return cnt;
     }
