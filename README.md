@@ -116,6 +116,7 @@ A collection of DSA problems that made me question my life choices. Includes my 
 | [0980-unique-paths-iii](https://github.com/jxt1nn/dsa-log/tree/master/0980-unique-paths-iii) |
 | [0994-rotting-oranges](https://github.com/jxt1nn/dsa-log/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/jxt1nn/dsa-log/tree/master/1020-number-of-enclaves) |
+| [1091-shortest-path-in-binary-matrix](https://github.com/jxt1nn/dsa-log/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1094-car-pooling](https://github.com/jxt1nn/dsa-log/tree/master/1094-car-pooling) |
 | [1219-path-with-maximum-gold](https://github.com/jxt1nn/dsa-log/tree/master/1219-path-with-maximum-gold) |
 | [1306-jump-game-iii](https://github.com/jxt1nn/dsa-log/tree/master/1306-jump-game-iii) |
@@ -369,6 +370,7 @@ A collection of DSA problems that made me question my life choices. Includes my 
 | [0980-unique-paths-iii](https://github.com/jxt1nn/dsa-log/tree/master/0980-unique-paths-iii) |
 | [0994-rotting-oranges](https://github.com/jxt1nn/dsa-log/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/jxt1nn/dsa-log/tree/master/1020-number-of-enclaves) |
+| [1091-shortest-path-in-binary-matrix](https://github.com/jxt1nn/dsa-log/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1219-path-with-maximum-gold](https://github.com/jxt1nn/dsa-log/tree/master/1219-path-with-maximum-gold) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/jxt1nn/dsa-log/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/jxt1nn/dsa-log/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
@@ -449,6 +451,7 @@ A collection of DSA problems that made me question my life choices. Includes my 
 | [0993-cousins-in-binary-tree](https://github.com/jxt1nn/dsa-log/tree/master/0993-cousins-in-binary-tree) |
 | [0994-rotting-oranges](https://github.com/jxt1nn/dsa-log/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/jxt1nn/dsa-log/tree/master/1020-number-of-enclaves) |
+| [1091-shortest-path-in-binary-matrix](https://github.com/jxt1nn/dsa-log/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1306-jump-game-iii](https://github.com/jxt1nn/dsa-log/tree/master/1306-jump-game-iii) |
 | [1345-jump-game-iv](https://github.com/jxt1nn/dsa-log/tree/master/1345-jump-game-iv) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/jxt1nn/dsa-log/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
