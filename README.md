@@ -49,6 +49,7 @@ A collection of DSA problems that made me question my life choices. Includes my 
 | ------- |
 | [0207-course-schedule](https://github.com/jxt1nn/dsa-log/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/jxt1nn/dsa-log/tree/master/0210-course-schedule-ii) |
+| [0743-network-delay-time](https://github.com/jxt1nn/dsa-log/tree/master/0743-network-delay-time) |
 | [0785-is-graph-bipartite](https://github.com/jxt1nn/dsa-log/tree/master/0785-is-graph-bipartite) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/jxt1nn/dsa-log/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0802-find-eventual-safe-states](https://github.com/jxt1nn/dsa-log/tree/master/0802-find-eventual-safe-states) |
@@ -64,6 +65,7 @@ A collection of DSA problems that made me question my life choices. Includes my 
 ## Shortest Path
 |  |
 | ------- |
+| [0743-network-delay-time](https://github.com/jxt1nn/dsa-log/tree/master/0743-network-delay-time) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/jxt1nn/dsa-log/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/jxt1nn/dsa-log/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/jxt1nn/dsa-log/tree/master/1976-number-of-ways-to-arrive-at-destination) |
@@ -296,6 +298,7 @@ A collection of DSA problems that made me question my life choices. Includes my 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0743-network-delay-time](https://github.com/jxt1nn/dsa-log/tree/master/0743-network-delay-time) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/jxt1nn/dsa-log/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1094-car-pooling](https://github.com/jxt1nn/dsa-log/tree/master/1094-car-pooling) |
 | [1631-path-with-minimum-effort](https://github.com/jxt1nn/dsa-log/tree/master/1631-path-with-minimum-effort) |
@@ -454,6 +457,7 @@ A collection of DSA problems that made me question my life choices. Includes my 
 | [0322-coin-change](https://github.com/jxt1nn/dsa-log/tree/master/0322-coin-change) |
 | [0542-01-matrix](https://github.com/jxt1nn/dsa-log/tree/master/0542-01-matrix) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/jxt1nn/dsa-log/tree/master/0637-average-of-levels-in-binary-tree) |
+| [0743-network-delay-time](https://github.com/jxt1nn/dsa-log/tree/master/0743-network-delay-time) |
 | [0785-is-graph-bipartite](https://github.com/jxt1nn/dsa-log/tree/master/0785-is-graph-bipartite) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/jxt1nn/dsa-log/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0802-find-eventual-safe-states](https://github.com/jxt1nn/dsa-log/tree/master/0802-find-eventual-safe-states) |
@@ -580,6 +584,7 @@ A collection of DSA problems that made me question my life choices. Includes my 
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/jxt1nn/dsa-log/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/jxt1nn/dsa-log/tree/master/0543-diameter-of-binary-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/jxt1nn/dsa-log/tree/master/0637-average-of-levels-in-binary-tree) |
+| [0743-network-delay-time](https://github.com/jxt1nn/dsa-log/tree/master/0743-network-delay-time) |
 | [0785-is-graph-bipartite](https://github.com/jxt1nn/dsa-log/tree/master/0785-is-graph-bipartite) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/jxt1nn/dsa-log/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0802-find-eventual-safe-states](https://github.com/jxt1nn/dsa-log/tree/master/0802-find-eventual-safe-states) |
