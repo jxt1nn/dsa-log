@@ -186,14 +186,14 @@ public:
         pq.push({0, 0});
         
         while(!pq.empty()) {
-            auto [time, node] = pq.top();
+            auto [dis, node] = pq.top();
             pq.pop();
             
             // Skip outdated entries
-            if(time > dist[node]) continue;
+            if(dis > dist[node]) continue;
             
             for(auto &[adjNode, wt] : adj[node]) {
-                long long newDist = time + wt;
+                long long newDist = dis + wt;
                 
                 // Found shorter path
                 if(newDist < dist[adjNode]) {
