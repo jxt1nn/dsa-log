@@ -151,6 +151,27 @@
         Return ways[n-1]
 
 
+    AFTER COUPLE OF months
+
+
+    what affect the ways for any node?????????
+
+    its previous nodes 
+        
+    how to remeber or count previous nodes count???????
+
+    take a ways array 
+
+    src will be 1 
+
+    and when ever we reach a node with 
+    new smller distance 
+
+    reintialize it as parent ways 
+
+    and if we reach a node with same previpus smaller distance 
+    add this parent ways in curr ways
+
 
 **/
 class Solution {
