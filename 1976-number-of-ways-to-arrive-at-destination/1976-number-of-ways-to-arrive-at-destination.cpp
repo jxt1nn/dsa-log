@@ -207,23 +207,27 @@ public:
         pq.push({0, 0});
         
         while(!pq.empty()) {
-            auto [dis, node] = pq.top();
+            auto top = pq.top();
             pq.pop();
+
+            int dis = top.first;
+            int node = top.second;
             
             // Skip outdated entries
             if(dis > dist[node]) continue;
             
-            for(auto &[adjNode, wt] : adj[node]) {
-                long long newDist = dis + wt;
+            for(auto nei : adj[node]){
+                int adjNode = nei.first;
+                int edw = nei.second;
                 
                 // Found shorter path
-                if(newDist < dist[adjNode]) {
-                    dist[adjNode] = newDist;
-                    ways[adjNode] = ways[node];  // inherit ways
-                    pq.push({newDist, adjNode});
+                if(dist[node] + edw < dist[adjNode]){
+                    dist[adjNode] = dist[node] + edw;
+                    pq.push({dist[adjNode],adjNode});
+                    ways[adjNode] = ways[node];
                 }
                 // Found another shortest path
-                else if(newDist == dist[adjNode]) {
+                else if(dist[node] + edw == dist[adjNode]) {
                     ways[adjNode] = (ways[adjNode] + ways[node]) % MOD;
                 }
             }
