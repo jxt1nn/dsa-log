@@ -117,6 +117,7 @@ A collection of DSA problems that made me question my life choices. Includes my 
 | [0455-assign-cookies](https://github.com/jxt1nn/dsa-log/tree/master/0455-assign-cookies) |
 | [0542-01-matrix](https://github.com/jxt1nn/dsa-log/tree/master/0542-01-matrix) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/jxt1nn/dsa-log/tree/master/0698-partition-to-k-equal-sum-subsets) |
+| [0778-swim-in-rising-water](https://github.com/jxt1nn/dsa-log/tree/master/0778-swim-in-rising-water) |
 | [0860-lemonade-change](https://github.com/jxt1nn/dsa-log/tree/master/0860-lemonade-change) |
 | [0874-walking-robot-simulation](https://github.com/jxt1nn/dsa-log/tree/master/0874-walking-robot-simulation) |
 | [0877-stone-game](https://github.com/jxt1nn/dsa-log/tree/master/0877-stone-game) |
@@ -216,6 +217,7 @@ A collection of DSA problems that made me question my life choices. Includes my 
 | [0033-search-in-rotated-sorted-array](https://github.com/jxt1nn/dsa-log/tree/master/0033-search-in-rotated-sorted-array) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/jxt1nn/dsa-log/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/jxt1nn/dsa-log/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
+| [0778-swim-in-rising-water](https://github.com/jxt1nn/dsa-log/tree/master/0778-swim-in-rising-water) |
 | [1631-path-with-minimum-effort](https://github.com/jxt1nn/dsa-log/tree/master/1631-path-with-minimum-effort) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/jxt1nn/dsa-log/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/jxt1nn/dsa-log/tree/master/2300-successful-pairs-of-spells-and-potions) |
@@ -301,6 +303,7 @@ A collection of DSA problems that made me question my life choices. Includes my 
 |  |
 | ------- |
 | [0743-network-delay-time](https://github.com/jxt1nn/dsa-log/tree/master/0743-network-delay-time) |
+| [0778-swim-in-rising-water](https://github.com/jxt1nn/dsa-log/tree/master/0778-swim-in-rising-water) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/jxt1nn/dsa-log/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1094-car-pooling](https://github.com/jxt1nn/dsa-log/tree/master/1094-car-pooling) |
 | [1631-path-with-minimum-effort](https://github.com/jxt1nn/dsa-log/tree/master/1631-path-with-minimum-effort) |
@@ -380,6 +383,7 @@ A collection of DSA problems that made me question my life choices. Includes my 
 | [0085-maximal-rectangle](https://github.com/jxt1nn/dsa-log/tree/master/0085-maximal-rectangle) |
 | [0130-surrounded-regions](https://github.com/jxt1nn/dsa-log/tree/master/0130-surrounded-regions) |
 | [0542-01-matrix](https://github.com/jxt1nn/dsa-log/tree/master/0542-01-matrix) |
+| [0778-swim-in-rising-water](https://github.com/jxt1nn/dsa-log/tree/master/0778-swim-in-rising-water) |
 | [0980-unique-paths-iii](https://github.com/jxt1nn/dsa-log/tree/master/0980-unique-paths-iii) |
 | [0994-rotting-oranges](https://github.com/jxt1nn/dsa-log/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/jxt1nn/dsa-log/tree/master/1020-number-of-enclaves) |
@@ -460,6 +464,7 @@ A collection of DSA problems that made me question my life choices. Includes my 
 | [0542-01-matrix](https://github.com/jxt1nn/dsa-log/tree/master/0542-01-matrix) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/jxt1nn/dsa-log/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0743-network-delay-time](https://github.com/jxt1nn/dsa-log/tree/master/0743-network-delay-time) |
+| [0778-swim-in-rising-water](https://github.com/jxt1nn/dsa-log/tree/master/0778-swim-in-rising-water) |
 | [0785-is-graph-bipartite](https://github.com/jxt1nn/dsa-log/tree/master/0785-is-graph-bipartite) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/jxt1nn/dsa-log/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0802-find-eventual-safe-states](https://github.com/jxt1nn/dsa-log/tree/master/0802-find-eventual-safe-states) |
@@ -587,6 +592,7 @@ A collection of DSA problems that made me question my life choices. Includes my 
 | [0543-diameter-of-binary-tree](https://github.com/jxt1nn/dsa-log/tree/master/0543-diameter-of-binary-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/jxt1nn/dsa-log/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0743-network-delay-time](https://github.com/jxt1nn/dsa-log/tree/master/0743-network-delay-time) |
+| [0778-swim-in-rising-water](https://github.com/jxt1nn/dsa-log/tree/master/0778-swim-in-rising-water) |
 | [0785-is-graph-bipartite](https://github.com/jxt1nn/dsa-log/tree/master/0785-is-graph-bipartite) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/jxt1nn/dsa-log/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0802-find-eventual-safe-states](https://github.com/jxt1nn/dsa-log/tree/master/0802-find-eventual-safe-states) |
@@ -628,6 +634,7 @@ A collection of DSA problems that made me question my life choices. Includes my 
 |  |
 | ------- |
 | [0130-surrounded-regions](https://github.com/jxt1nn/dsa-log/tree/master/0130-surrounded-regions) |
+| [0778-swim-in-rising-water](https://github.com/jxt1nn/dsa-log/tree/master/0778-swim-in-rising-water) |
 | [0785-is-graph-bipartite](https://github.com/jxt1nn/dsa-log/tree/master/0785-is-graph-bipartite) |
 | [1020-number-of-enclaves](https://github.com/jxt1nn/dsa-log/tree/master/1020-number-of-enclaves) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/jxt1nn/dsa-log/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
