@@ -86,6 +86,7 @@ A collection of DSA problems that made me question my life choices. Includes my 
 | [3546-equal-sum-grid-partition-i](https://github.com/jxt1nn/dsa-log/tree/master/3546-equal-sum-grid-partition-i) |
 | [3699-number-of-zigzag-arrays-i](https://github.com/jxt1nn/dsa-log/tree/master/3699-number-of-zigzag-arrays-i) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/jxt1nn/dsa-log/tree/master/3737-count-subarrays-with-majority-element-i) |
+| [3739-count-subarrays-with-majority-element-ii](https://github.com/jxt1nn/dsa-log/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Array
 |  |
 | ------- |
@@ -192,6 +193,7 @@ A collection of DSA problems that made me question my life choices. Includes my 
 | [3689-maximum-total-subarray-value-i](https://github.com/jxt1nn/dsa-log/tree/master/3689-maximum-total-subarray-value-i) |
 | [3691-maximum-total-subarray-value-ii](https://github.com/jxt1nn/dsa-log/tree/master/3691-maximum-total-subarray-value-ii) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/jxt1nn/dsa-log/tree/master/3737-count-subarrays-with-majority-element-i) |
+| [3739-count-subarrays-with-majority-element-ii](https://github.com/jxt1nn/dsa-log/tree/master/3739-count-subarrays-with-majority-element-ii) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/jxt1nn/dsa-log/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 | [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/jxt1nn/dsa-log/tree/master/3741-minimum-distance-between-three-equal-elements-ii) |
 | [3742-maximum-path-score-in-a-grid](https://github.com/jxt1nn/dsa-log/tree/master/3742-maximum-path-score-in-a-grid) |
@@ -377,6 +379,7 @@ A collection of DSA problems that made me question my life choices. Includes my 
 | [1622-fancy-sequence](https://github.com/jxt1nn/dsa-log/tree/master/1622-fancy-sequence) |
 | [3691-maximum-total-subarray-value-ii](https://github.com/jxt1nn/dsa-log/tree/master/3691-maximum-total-subarray-value-ii) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/jxt1nn/dsa-log/tree/master/3737-count-subarrays-with-majority-element-i) |
+| [3739-count-subarrays-with-majority-element-ii](https://github.com/jxt1nn/dsa-log/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Matrix
 |  |
 | ------- |
@@ -512,6 +515,7 @@ A collection of DSA problems that made me question my life choices. Includes my 
 | [3488-closest-equal-element-queries](https://github.com/jxt1nn/dsa-log/tree/master/3488-closest-equal-element-queries) |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/jxt1nn/dsa-log/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/jxt1nn/dsa-log/tree/master/3737-count-subarrays-with-majority-element-i) |
+| [3739-count-subarrays-with-majority-element-ii](https://github.com/jxt1nn/dsa-log/tree/master/3739-count-subarrays-with-majority-element-ii) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/jxt1nn/dsa-log/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 | [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/jxt1nn/dsa-log/tree/master/3741-minimum-distance-between-three-equal-elements-ii) |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/jxt1nn/dsa-log/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
@@ -535,6 +539,7 @@ A collection of DSA problems that made me question my life choices. Includes my 
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/jxt1nn/dsa-log/tree/master/3653-xor-after-range-multiplication-queries-i) |
 | [3655-xor-after-range-multiplication-queries-ii](https://github.com/jxt1nn/dsa-log/tree/master/3655-xor-after-range-multiplication-queries-ii) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/jxt1nn/dsa-log/tree/master/3737-count-subarrays-with-majority-element-i) |
+| [3739-count-subarrays-with-majority-element-ii](https://github.com/jxt1nn/dsa-log/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -690,4 +695,5 @@ A collection of DSA problems that made me question my life choices. Includes my 
 |  |
 | ------- |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/jxt1nn/dsa-log/tree/master/3737-count-subarrays-with-majority-element-i) |
+| [3739-count-subarrays-with-majority-element-ii](https://github.com/jxt1nn/dsa-log/tree/master/3739-count-subarrays-with-majority-element-ii) |
 <!---LeetCode Topics End-->
