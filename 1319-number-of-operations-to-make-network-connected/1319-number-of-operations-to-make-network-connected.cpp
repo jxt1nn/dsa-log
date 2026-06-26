@@ -1,3 +1,106 @@
+/*
+    We are processing every cable (u, v).
+
+    Question:
+        Are u and v already connected?
+
+    We check:
+
+        if(ds.findUPar(u) == ds.findUPar(v))
+
+    findUPar(node)
+        -> Returns the Ultimate Parent (Leader) of that node.
+        -> If two nodes have the same Ultimate Parent,
+           they belong to the SAME connected component.
+
+    --------------------------------------------
+
+    Case 1:
+
+        findUPar(u) == findUPar(v)
+
+    Example:
+
+            0 ----- 1
+             \     /
+               2
+
+    Edges:
+        (0,1)
+        (1,2)
+        (0,2)
+
+    When we process (0,2),
+
+        findUPar(0) == findUPar(2)
+
+    because
+
+        0 and 2 are already connected
+        through node 1.
+
+    Therefore,
+
+        This edge creates a cycle.
+
+    It is NOT needed to keep the graph connected.
+
+    We can remove this cable and use it somewhere else.
+
+    So,
+
+        extra++;
+
+    means
+
+        We found one extra (redundant) cable.
+
+    --------------------------------------------
+
+    Case 2:
+
+        findUPar(u) != findUPar(v)
+
+    Example:
+
+        0 ----- 1
+
+        2 ----- 3
+
+    Processing edge:
+
+        (1,2)
+
+    Here,
+
+        findUPar(1) != findUPar(2)
+
+    because
+
+        They belong to different components.
+
+    So this cable is useful.
+
+    Merge both components.
+
+        ds.unionBySize(u,v);
+
+    --------------------------------------------
+
+    Easy Way to Remember
+
+        Same Parent
+            -> Already Connected
+            -> Cycle
+            -> Extra Cable
+
+        Different Parent
+            -> Different Components
+            -> Merge Them
+            -> unionBySize()
+*/
+
+
 class DisjointSet {
 public:
     vector<int> parent, size;
