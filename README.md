@@ -172,6 +172,7 @@ A collection of DSA problems that made me question my life choices. Includes my 
 | [2850-minimum-moves-to-spread-stones-over-grid](https://github.com/jxt1nn/dsa-log/tree/master/2850-minimum-moves-to-spread-stones-over-grid) |
 | [2906-construct-product-matrix](https://github.com/jxt1nn/dsa-log/tree/master/2906-construct-product-matrix) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/jxt1nn/dsa-log/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
+| [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/jxt1nn/dsa-log/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3033-modify-the-matrix](https://github.com/jxt1nn/dsa-log/tree/master/3033-modify-the-matrix) |
 | [3034-number-of-subarrays-that-match-a-pattern-i](https://github.com/jxt1nn/dsa-log/tree/master/3034-number-of-subarrays-that-match-a-pattern-i) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/jxt1nn/dsa-log/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
@@ -431,6 +432,7 @@ A collection of DSA problems that made me question my life choices. Includes my 
 ## Enumeration
 |  |
 | ------- |
+| [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/jxt1nn/dsa-log/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3546-equal-sum-grid-partition-i](https://github.com/jxt1nn/dsa-log/tree/master/3546-equal-sum-grid-partition-i) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/jxt1nn/dsa-log/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 ## Simulation
@@ -511,6 +513,7 @@ A collection of DSA problems that made me question my life choices. Includes my 
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/jxt1nn/dsa-log/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [2784-check-if-array-is-good](https://github.com/jxt1nn/dsa-log/tree/master/2784-check-if-array-is-good) |
 | [2848-points-that-intersect-with-cars](https://github.com/jxt1nn/dsa-log/tree/master/2848-points-that-intersect-with-cars) |
+| [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/jxt1nn/dsa-log/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/jxt1nn/dsa-log/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/jxt1nn/dsa-log/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/jxt1nn/dsa-log/tree/master/3121-count-the-number-of-special-characters-ii) |
