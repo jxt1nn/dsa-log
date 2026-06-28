@@ -1,8 +1,14 @@
 /*
+    order dosent matter :
 
-    sort the array 
+        sort the array 
 
+    what can be the maximum value for n 
+    [1,2,3,4,5,6,..........]
 
+    maximum cannot exceed the n 
+
+    min(curr, prev+1)
 */
 class Solution {
 public:
