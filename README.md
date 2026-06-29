@@ -121,6 +121,7 @@ A collection of DSA problems that made me question my life choices. Includes my 
 | [0455-assign-cookies](https://github.com/jxt1nn/dsa-log/tree/master/0455-assign-cookies) |
 | [0542-01-matrix](https://github.com/jxt1nn/dsa-log/tree/master/0542-01-matrix) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/jxt1nn/dsa-log/tree/master/0698-partition-to-k-equal-sum-subsets) |
+| [0721-accounts-merge](https://github.com/jxt1nn/dsa-log/tree/master/0721-accounts-merge) |
 | [0778-swim-in-rising-water](https://github.com/jxt1nn/dsa-log/tree/master/0778-swim-in-rising-water) |
 | [0860-lemonade-change](https://github.com/jxt1nn/dsa-log/tree/master/0860-lemonade-change) |
 | [0874-walking-robot-simulation](https://github.com/jxt1nn/dsa-log/tree/master/0874-walking-robot-simulation) |
@@ -243,6 +244,7 @@ A collection of DSA problems that made me question my life choices. Includes my 
 | [0056-merge-intervals](https://github.com/jxt1nn/dsa-log/tree/master/0056-merge-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/jxt1nn/dsa-log/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0455-assign-cookies](https://github.com/jxt1nn/dsa-log/tree/master/0455-assign-cookies) |
+| [0721-accounts-merge](https://github.com/jxt1nn/dsa-log/tree/master/0721-accounts-merge) |
 | [1094-car-pooling](https://github.com/jxt1nn/dsa-log/tree/master/1094-car-pooling) |
 | [1340-jump-game-v](https://github.com/jxt1nn/dsa-log/tree/master/1340-jump-game-v) |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/jxt1nn/dsa-log/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
@@ -332,6 +334,7 @@ A collection of DSA problems that made me question my life choices. Includes my 
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/jxt1nn/dsa-log/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0657-robot-return-to-origin](https://github.com/jxt1nn/dsa-log/tree/master/0657-robot-return-to-origin) |
 | [0678-valid-parenthesis-string](https://github.com/jxt1nn/dsa-log/tree/master/0678-valid-parenthesis-string) |
+| [0721-accounts-merge](https://github.com/jxt1nn/dsa-log/tree/master/0721-accounts-merge) |
 | [0763-partition-labels](https://github.com/jxt1nn/dsa-log/tree/master/0763-partition-labels) |
 | [0796-rotate-string](https://github.com/jxt1nn/dsa-log/tree/master/0796-rotate-string) |
 | [1189-maximum-number-of-balloons](https://github.com/jxt1nn/dsa-log/tree/master/1189-maximum-number-of-balloons) |
@@ -478,6 +481,7 @@ A collection of DSA problems that made me question my life choices. Includes my 
 | [0322-coin-change](https://github.com/jxt1nn/dsa-log/tree/master/0322-coin-change) |
 | [0542-01-matrix](https://github.com/jxt1nn/dsa-log/tree/master/0542-01-matrix) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/jxt1nn/dsa-log/tree/master/0637-average-of-levels-in-binary-tree) |
+| [0721-accounts-merge](https://github.com/jxt1nn/dsa-log/tree/master/0721-accounts-merge) |
 | [0743-network-delay-time](https://github.com/jxt1nn/dsa-log/tree/master/0743-network-delay-time) |
 | [0778-swim-in-rising-water](https://github.com/jxt1nn/dsa-log/tree/master/0778-swim-in-rising-water) |
 | [0785-is-graph-bipartite](https://github.com/jxt1nn/dsa-log/tree/master/0785-is-graph-bipartite) |
@@ -507,6 +511,7 @@ A collection of DSA problems that made me question my life choices. Includes my 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/jxt1nn/dsa-log/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0037-sudoku-solver](https://github.com/jxt1nn/dsa-log/tree/master/0037-sudoku-solver) |
 | [0146-lru-cache](https://github.com/jxt1nn/dsa-log/tree/master/0146-lru-cache) |
+| [0721-accounts-merge](https://github.com/jxt1nn/dsa-log/tree/master/0721-accounts-merge) |
 | [0763-partition-labels](https://github.com/jxt1nn/dsa-log/tree/master/0763-partition-labels) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/jxt1nn/dsa-log/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0874-walking-robot-simulation](https://github.com/jxt1nn/dsa-log/tree/master/0874-walking-robot-simulation) |
@@ -613,6 +618,7 @@ A collection of DSA problems that made me question my life choices. Includes my 
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/jxt1nn/dsa-log/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/jxt1nn/dsa-log/tree/master/0543-diameter-of-binary-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/jxt1nn/dsa-log/tree/master/0637-average-of-levels-in-binary-tree) |
+| [0721-accounts-merge](https://github.com/jxt1nn/dsa-log/tree/master/0721-accounts-merge) |
 | [0743-network-delay-time](https://github.com/jxt1nn/dsa-log/tree/master/0743-network-delay-time) |
 | [0778-swim-in-rising-water](https://github.com/jxt1nn/dsa-log/tree/master/0778-swim-in-rising-water) |
 | [0785-is-graph-bipartite](https://github.com/jxt1nn/dsa-log/tree/master/0785-is-graph-bipartite) |
@@ -658,6 +664,7 @@ A collection of DSA problems that made me question my life choices. Includes my 
 |  |
 | ------- |
 | [0130-surrounded-regions](https://github.com/jxt1nn/dsa-log/tree/master/0130-surrounded-regions) |
+| [0721-accounts-merge](https://github.com/jxt1nn/dsa-log/tree/master/0721-accounts-merge) |
 | [0778-swim-in-rising-water](https://github.com/jxt1nn/dsa-log/tree/master/0778-swim-in-rising-water) |
 | [0785-is-graph-bipartite](https://github.com/jxt1nn/dsa-log/tree/master/0785-is-graph-bipartite) |
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/jxt1nn/dsa-log/tree/master/0947-most-stones-removed-with-same-row-or-column) |
