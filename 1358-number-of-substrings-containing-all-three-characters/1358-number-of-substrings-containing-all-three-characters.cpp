@@ -17,7 +17,10 @@
     expand :  maitain freq 
     shrink : when ever freq of a && b && c 
 
+    ->> their is one more accporach
+        where we calculayte substrings from right
 
+    (N - r)
 
 */
 
@@ -25,8 +28,8 @@ class Solution {
 public:
     int numberOfSubstrings(string s) {
         int n = s.size();
-       long long LessThanEqualto = 1LL * n * (n + 1) / 2;
-
+        long long LessThanEqualto = 1LL * n * (n + 1) / 2;
+        
         int l = 0;
         int r = 0;
         int subCount = 0;
