@@ -123,6 +123,7 @@ A collection of DSA problems that made me question my life choices. Includes my 
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/jxt1nn/dsa-log/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [0721-accounts-merge](https://github.com/jxt1nn/dsa-log/tree/master/0721-accounts-merge) |
 | [0778-swim-in-rising-water](https://github.com/jxt1nn/dsa-log/tree/master/0778-swim-in-rising-water) |
+| [0827-making-a-large-island](https://github.com/jxt1nn/dsa-log/tree/master/0827-making-a-large-island) |
 | [0860-lemonade-change](https://github.com/jxt1nn/dsa-log/tree/master/0860-lemonade-change) |
 | [0874-walking-robot-simulation](https://github.com/jxt1nn/dsa-log/tree/master/0874-walking-robot-simulation) |
 | [0877-stone-game](https://github.com/jxt1nn/dsa-log/tree/master/0877-stone-game) |
@@ -405,6 +406,7 @@ A collection of DSA problems that made me question my life choices. Includes my 
 | [0130-surrounded-regions](https://github.com/jxt1nn/dsa-log/tree/master/0130-surrounded-regions) |
 | [0542-01-matrix](https://github.com/jxt1nn/dsa-log/tree/master/0542-01-matrix) |
 | [0778-swim-in-rising-water](https://github.com/jxt1nn/dsa-log/tree/master/0778-swim-in-rising-water) |
+| [0827-making-a-large-island](https://github.com/jxt1nn/dsa-log/tree/master/0827-making-a-large-island) |
 | [0980-unique-paths-iii](https://github.com/jxt1nn/dsa-log/tree/master/0980-unique-paths-iii) |
 | [0994-rotting-oranges](https://github.com/jxt1nn/dsa-log/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/jxt1nn/dsa-log/tree/master/1020-number-of-enclaves) |
@@ -492,6 +494,7 @@ A collection of DSA problems that made me question my life choices. Includes my 
 | [0785-is-graph-bipartite](https://github.com/jxt1nn/dsa-log/tree/master/0785-is-graph-bipartite) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/jxt1nn/dsa-log/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0802-find-eventual-safe-states](https://github.com/jxt1nn/dsa-log/tree/master/0802-find-eventual-safe-states) |
+| [0827-making-a-large-island](https://github.com/jxt1nn/dsa-log/tree/master/0827-making-a-large-island) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/jxt1nn/dsa-log/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0993-cousins-in-binary-tree](https://github.com/jxt1nn/dsa-log/tree/master/0993-cousins-in-binary-tree) |
 | [0994-rotting-oranges](https://github.com/jxt1nn/dsa-log/tree/master/0994-rotting-oranges) |
@@ -632,6 +635,7 @@ A collection of DSA problems that made me question my life choices. Includes my 
 | [0785-is-graph-bipartite](https://github.com/jxt1nn/dsa-log/tree/master/0785-is-graph-bipartite) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/jxt1nn/dsa-log/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0802-find-eventual-safe-states](https://github.com/jxt1nn/dsa-log/tree/master/0802-find-eventual-safe-states) |
+| [0827-making-a-large-island](https://github.com/jxt1nn/dsa-log/tree/master/0827-making-a-large-island) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/jxt1nn/dsa-log/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/jxt1nn/dsa-log/tree/master/0947-most-stones-removed-with-same-row-or-column) |
 | [0968-binary-tree-cameras](https://github.com/jxt1nn/dsa-log/tree/master/0968-binary-tree-cameras) |
@@ -675,6 +679,7 @@ A collection of DSA problems that made me question my life choices. Includes my 
 | [0721-accounts-merge](https://github.com/jxt1nn/dsa-log/tree/master/0721-accounts-merge) |
 | [0778-swim-in-rising-water](https://github.com/jxt1nn/dsa-log/tree/master/0778-swim-in-rising-water) |
 | [0785-is-graph-bipartite](https://github.com/jxt1nn/dsa-log/tree/master/0785-is-graph-bipartite) |
+| [0827-making-a-large-island](https://github.com/jxt1nn/dsa-log/tree/master/0827-making-a-large-island) |
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/jxt1nn/dsa-log/tree/master/0947-most-stones-removed-with-same-row-or-column) |
 | [1020-number-of-enclaves](https://github.com/jxt1nn/dsa-log/tree/master/1020-number-of-enclaves) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/jxt1nn/dsa-log/tree/master/1319-number-of-operations-to-make-network-connected) |
