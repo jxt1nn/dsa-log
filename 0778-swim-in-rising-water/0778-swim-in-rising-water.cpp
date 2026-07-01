@@ -1,86 +1,39 @@
 /*
 
-    treat elevation as cost of the cell
-
     We need to reach (n-1,n-1) from (0,0).
 
-    Water level at time t means:
-        We can stand only on cells having elevation <= t.
+    bullshit question ststement for understanding read this........
 
-    Instead of thinking about water,
-    think about the path.
+    every cell is a city 
+    for enter any citty we have  that much money in our pocket
+    we dont use any money only we need that money in our pocket to enter
 
     For any path:
 
         path = 0 -> 1 -> 4 -> 7 -> 3
 
-    We cannot use this path until water level reaches:
+    we cannot go 7 city if we dont have 7 rupees in over pocket........
+
 
         max(0,1,4,7,3) = 7
 
     Therefore,
 
         Cost of a path =
-            maximum elevation present on that path
-
-    We need:
-
-        Path whose maximum elevation is minimum.
+            maximum city price present on that path
 
     ------------------------------------------------
 
-    Dijkstra Observation:
+    this is graph realation problem
+    MODIFIED DIJKSTARA
 
-        dist[r][c]
+    state : cost
+    transition : new = max(curr,cost[v])
+    priority : cost (min-heap)
+    relaxtion : (new < dist[v])
 
-    = minimum water level required
-      to reach cell (r,c)
 
-    = minimum possible maximum elevation
-      seen so far.
 
-    ------------------------------------------------
-
-    Normal Dijkstra:
-
-        newCost = dist[node] + weight
-
-    Here:
-
-        newCost = max(
-                    dist[r][c],
-                    grid[nr][nc]
-                 )
-
-    because entering a higher elevation
-    may increase the required water level.
-
-    ------------------------------------------------
-
-    Why Dijkstra works?
-
-        max(currentCost , x)
-            >= currentCost
-
-    Cost never decreases.
-
-    This monotonic property is exactly
-    what Dijkstra needs.
-
-    ------------------------------------------------
-
-    Recognition Pattern:
-
-    If problem says:
-
-        - minimum possible maximum
-        - minimize the largest value
-        - minimize the worst obstacle
-        - minimum threshold to reach end
-
-    Think:
-
-        Dijkstra + max()
 
 */
 class Solution {
