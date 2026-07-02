@@ -57,6 +57,7 @@ A collection of DSA problems that made me question my life choices. Includes my 
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/jxt1nn/dsa-log/tree/master/0947-most-stones-removed-with-same-row-or-column) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/jxt1nn/dsa-log/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/jxt1nn/dsa-log/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
+| [1514-path-with-maximum-probability](https://github.com/jxt1nn/dsa-log/tree/master/1514-path-with-maximum-probability) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/jxt1nn/dsa-log/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 ## Topological Sort
 |  |
@@ -71,6 +72,7 @@ A collection of DSA problems that made me question my life choices. Includes my 
 | [0743-network-delay-time](https://github.com/jxt1nn/dsa-log/tree/master/0743-network-delay-time) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/jxt1nn/dsa-log/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/jxt1nn/dsa-log/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
+| [1514-path-with-maximum-probability](https://github.com/jxt1nn/dsa-log/tree/master/1514-path-with-maximum-probability) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/jxt1nn/dsa-log/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 ## Prefix Sum
 |  |
@@ -138,6 +140,7 @@ A collection of DSA problems that made me question my life choices. Includes my 
 | [1340-jump-game-v](https://github.com/jxt1nn/dsa-log/tree/master/1340-jump-game-v) |
 | [1345-jump-game-iv](https://github.com/jxt1nn/dsa-log/tree/master/1345-jump-game-iv) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/jxt1nn/dsa-log/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
+| [1514-path-with-maximum-probability](https://github.com/jxt1nn/dsa-log/tree/master/1514-path-with-maximum-probability) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/jxt1nn/dsa-log/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/jxt1nn/dsa-log/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1631-path-with-minimum-effort](https://github.com/jxt1nn/dsa-log/tree/master/1631-path-with-minimum-effort) |
@@ -322,6 +325,7 @@ A collection of DSA problems that made me question my life choices. Includes my 
 | [0778-swim-in-rising-water](https://github.com/jxt1nn/dsa-log/tree/master/0778-swim-in-rising-water) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/jxt1nn/dsa-log/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1094-car-pooling](https://github.com/jxt1nn/dsa-log/tree/master/1094-car-pooling) |
+| [1514-path-with-maximum-probability](https://github.com/jxt1nn/dsa-log/tree/master/1514-path-with-maximum-probability) |
 | [1631-path-with-minimum-effort](https://github.com/jxt1nn/dsa-log/tree/master/1631-path-with-minimum-effort) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/jxt1nn/dsa-log/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/jxt1nn/dsa-log/tree/master/2812-find-the-safest-path-in-a-grid) |
