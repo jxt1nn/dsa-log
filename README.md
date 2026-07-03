@@ -39,6 +39,7 @@ A collection of DSA problems that made me question my life choices. Includes my 
 | [3225-maximum-score-from-grid-operations](https://github.com/jxt1nn/dsa-log/tree/master/3225-maximum-score-from-grid-operations) |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/jxt1nn/dsa-log/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/jxt1nn/dsa-log/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
+| [3620-network-recovery-pathways](https://github.com/jxt1nn/dsa-log/tree/master/3620-network-recovery-pathways) |
 | [3660-jump-game-ix](https://github.com/jxt1nn/dsa-log/tree/master/3660-jump-game-ix) |
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/jxt1nn/dsa-log/tree/master/3661-maximum-walls-destroyed-by-robots) |
 | [3699-number-of-zigzag-arrays-i](https://github.com/jxt1nn/dsa-log/tree/master/3699-number-of-zigzag-arrays-i) |
@@ -60,6 +61,7 @@ A collection of DSA problems that made me question my life choices. Includes my 
 | [1514-path-with-maximum-probability](https://github.com/jxt1nn/dsa-log/tree/master/1514-path-with-maximum-probability) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/jxt1nn/dsa-log/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/jxt1nn/dsa-log/tree/master/3286-find-a-safe-walk-through-a-grid) |
+| [3620-network-recovery-pathways](https://github.com/jxt1nn/dsa-log/tree/master/3620-network-recovery-pathways) |
 ## Topological Sort
 |  |
 | ------- |
@@ -67,6 +69,7 @@ A collection of DSA problems that made me question my life choices. Includes my 
 | [0210-course-schedule-ii](https://github.com/jxt1nn/dsa-log/tree/master/0210-course-schedule-ii) |
 | [0802-find-eventual-safe-states](https://github.com/jxt1nn/dsa-log/tree/master/0802-find-eventual-safe-states) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/jxt1nn/dsa-log/tree/master/1976-number-of-ways-to-arrive-at-destination) |
+| [3620-network-recovery-pathways](https://github.com/jxt1nn/dsa-log/tree/master/3620-network-recovery-pathways) |
 ## Shortest Path
 |  |
 | ------- |
@@ -76,6 +79,7 @@ A collection of DSA problems that made me question my life choices. Includes my 
 | [1514-path-with-maximum-probability](https://github.com/jxt1nn/dsa-log/tree/master/1514-path-with-maximum-probability) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/jxt1nn/dsa-log/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/jxt1nn/dsa-log/tree/master/3286-find-a-safe-walk-through-a-grid) |
+| [3620-network-recovery-pathways](https://github.com/jxt1nn/dsa-log/tree/master/3620-network-recovery-pathways) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -197,6 +201,7 @@ A collection of DSA problems that made me question my life choices. Includes my 
 | [3488-closest-equal-element-queries](https://github.com/jxt1nn/dsa-log/tree/master/3488-closest-equal-element-queries) |
 | [3546-equal-sum-grid-partition-i](https://github.com/jxt1nn/dsa-log/tree/master/3546-equal-sum-grid-partition-i) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/jxt1nn/dsa-log/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
+| [3620-network-recovery-pathways](https://github.com/jxt1nn/dsa-log/tree/master/3620-network-recovery-pathways) |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/jxt1nn/dsa-log/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/jxt1nn/dsa-log/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 | [3643-flip-square-submatrix-vertically](https://github.com/jxt1nn/dsa-log/tree/master/3643-flip-square-submatrix-vertically) |
@@ -244,6 +249,7 @@ A collection of DSA problems that made me question my life choices. Includes my 
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/jxt1nn/dsa-log/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/jxt1nn/dsa-log/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
 | [3488-closest-equal-element-queries](https://github.com/jxt1nn/dsa-log/tree/master/3488-closest-equal-element-queries) |
+| [3620-network-recovery-pathways](https://github.com/jxt1nn/dsa-log/tree/master/3620-network-recovery-pathways) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/jxt1nn/dsa-log/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/jxt1nn/dsa-log/tree/master/3661-maximum-walls-destroyed-by-robots) |
 ## Sorting
@@ -334,6 +340,7 @@ A collection of DSA problems that made me question my life choices. Includes my 
 | [2812-find-the-safest-path-in-a-grid](https://github.com/jxt1nn/dsa-log/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/jxt1nn/dsa-log/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/jxt1nn/dsa-log/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
+| [3620-network-recovery-pathways](https://github.com/jxt1nn/dsa-log/tree/master/3620-network-recovery-pathways) |
 | [3691-maximum-total-subarray-value-ii](https://github.com/jxt1nn/dsa-log/tree/master/3691-maximum-total-subarray-value-ii) |
 ## String
 |  |
