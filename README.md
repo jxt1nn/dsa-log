@@ -60,6 +60,7 @@ A collection of DSA problems that made me question my life choices. Includes my 
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/jxt1nn/dsa-log/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1514-path-with-maximum-probability](https://github.com/jxt1nn/dsa-log/tree/master/1514-path-with-maximum-probability) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/jxt1nn/dsa-log/tree/master/1976-number-of-ways-to-arrive-at-destination) |
+| [2492-minimum-score-of-a-path-between-two-cities](https://github.com/jxt1nn/dsa-log/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/jxt1nn/dsa-log/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3620-network-recovery-pathways](https://github.com/jxt1nn/dsa-log/tree/master/3620-network-recovery-pathways) |
 ## Topological Sort
@@ -522,6 +523,7 @@ A collection of DSA problems that made me question my life choices. Includes my 
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/jxt1nn/dsa-log/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/jxt1nn/dsa-log/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1631-path-with-minimum-effort](https://github.com/jxt1nn/dsa-log/tree/master/1631-path-with-minimum-effort) |
+| [2492-minimum-score-of-a-path-between-two-cities](https://github.com/jxt1nn/dsa-log/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2596-check-knight-tour-configuration](https://github.com/jxt1nn/dsa-log/tree/master/2596-check-knight-tour-configuration) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/jxt1nn/dsa-log/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/jxt1nn/dsa-log/tree/master/3286-find-a-safe-walk-through-a-grid) |
@@ -664,6 +666,7 @@ A collection of DSA problems that made me question my life choices. Includes my 
 | [1559-detect-cycles-in-2d-grid](https://github.com/jxt1nn/dsa-log/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1631-path-with-minimum-effort](https://github.com/jxt1nn/dsa-log/tree/master/1631-path-with-minimum-effort) |
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/jxt1nn/dsa-log/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
+| [2492-minimum-score-of-a-path-between-two-cities](https://github.com/jxt1nn/dsa-log/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2596-check-knight-tour-configuration](https://github.com/jxt1nn/dsa-log/tree/master/2596-check-knight-tour-configuration) |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/jxt1nn/dsa-log/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/jxt1nn/dsa-log/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
@@ -704,6 +707,7 @@ A collection of DSA problems that made me question my life choices. Includes my 
 | [1559-detect-cycles-in-2d-grid](https://github.com/jxt1nn/dsa-log/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1631-path-with-minimum-effort](https://github.com/jxt1nn/dsa-log/tree/master/1631-path-with-minimum-effort) |
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/jxt1nn/dsa-log/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
+| [2492-minimum-score-of-a-path-between-two-cities](https://github.com/jxt1nn/dsa-log/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/jxt1nn/dsa-log/tree/master/2812-find-the-safest-path-in-a-grid) |
 ## Trie
 |  |
