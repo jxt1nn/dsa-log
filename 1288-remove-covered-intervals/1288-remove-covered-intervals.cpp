@@ -16,10 +16,44 @@
     Assume it is not covered.
     Compare it with every other interval j.
     If interval j covers interval i, mark i as covered and stop checking further.
-    At the end, count how many intervals were not covered.
+    reduce count by 1
+
+    NOW try to optimize this.........
+
+    
 
 
 */
+
+class Solution {
+public:
+    int removeCoveredIntervals(vector<vector<int>>& intervals) {
+        int n = intervals.size();
+        int remaining = n;
+
+        sort(intervals.begin(), intervals.end(),
+            [](vector<int>& a, vector<int>& b) {
+                if (a[0] == b[0])
+                    return a[1] > b[1];
+                return a[0] < b[0];
+            });
+ 
+        int maxRight = 0;
+
+        for (auto &inter : intervals) {
+            
+            if(inter[1] <= maxRight){
+                remaining--;
+            }
+
+            maxRight = max(maxRight,inter[1]);
+            
+        }
+
+        return remaining;
+    }
+};
+/*
 class Solution {
 public:
     int removeCoveredIntervals(vector<vector<int>>& intervals) {
@@ -51,3 +85,4 @@ public:
         return remaining;
     }
 };
+*/
