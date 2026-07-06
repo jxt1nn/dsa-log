@@ -142,6 +142,7 @@ A collection of DSA problems that made me question my life choices. Includes my 
 | [1091-shortest-path-in-binary-matrix](https://github.com/jxt1nn/dsa-log/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1094-car-pooling](https://github.com/jxt1nn/dsa-log/tree/master/1094-car-pooling) |
 | [1219-path-with-maximum-gold](https://github.com/jxt1nn/dsa-log/tree/master/1219-path-with-maximum-gold) |
+| [1288-remove-covered-intervals](https://github.com/jxt1nn/dsa-log/tree/master/1288-remove-covered-intervals) |
 | [1306-jump-game-iii](https://github.com/jxt1nn/dsa-log/tree/master/1306-jump-game-iii) |
 | [1326-minimum-number-of-taps-to-open-to-water-a-garden](https://github.com/jxt1nn/dsa-log/tree/master/1326-minimum-number-of-taps-to-open-to-water-a-garden) |
 | [1340-jump-game-v](https://github.com/jxt1nn/dsa-log/tree/master/1340-jump-game-v) |
@@ -262,6 +263,7 @@ A collection of DSA problems that made me question my life choices. Includes my 
 | [0455-assign-cookies](https://github.com/jxt1nn/dsa-log/tree/master/0455-assign-cookies) |
 | [0721-accounts-merge](https://github.com/jxt1nn/dsa-log/tree/master/0721-accounts-merge) |
 | [1094-car-pooling](https://github.com/jxt1nn/dsa-log/tree/master/1094-car-pooling) |
+| [1288-remove-covered-intervals](https://github.com/jxt1nn/dsa-log/tree/master/1288-remove-covered-intervals) |
 | [1340-jump-game-v](https://github.com/jxt1nn/dsa-log/tree/master/1340-jump-game-v) |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/jxt1nn/dsa-log/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/jxt1nn/dsa-log/tree/master/1727-largest-submatrix-with-rearrangements) |
