@@ -24,7 +24,7 @@ class Solution {
 public:
     int removeCoveredIntervals(vector<vector<int>>& intervals) {
         int n = intervals.size();
-        int remaining = 0;
+        int remaining = n;
 
         for (int i = 0; i < n; i++) {
             bool covered = false;
@@ -44,8 +44,8 @@ public:
                 }
             }
 
-            if (!covered)
-                remaining++;
+            if (covered)
+                remaining--;
         }
 
         return remaining;
