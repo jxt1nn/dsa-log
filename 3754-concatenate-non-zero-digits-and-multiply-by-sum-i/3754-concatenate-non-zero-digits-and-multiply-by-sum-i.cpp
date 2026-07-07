@@ -1,23 +1,20 @@
 class Solution {
 public:
     long long sumAndMultiply(int n) {
-        string str = to_string(n);
-
+        long long x = 0;
         long long sum = 0;
-        int num = 0;
-        for(int i = 0; i < str.size();i++){
-            int it = (str[i] - '0');
+        long long place = 1;
 
-            if(it == 0){
-                continue;
+        while (n > 0) {
+            int d = n % 10;
+            if (d != 0) {
+                x = d * place + x;
+                place *= 10;
+                sum += d;
             }
-
-            num *= 10;
-            num += it;
-
-            sum += it;
+            n /= 10;
         }
-        long long ans = sum * num;
-        return ans;
+
+        return x * sum;
     }
 };
