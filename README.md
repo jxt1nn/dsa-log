@@ -151,6 +151,7 @@ A collection of DSA problems that made me question my life choices. Includes my 
 | [1288-remove-covered-intervals](https://github.com/jxt1nn/dsa-log/tree/master/1288-remove-covered-intervals) |
 | [1306-jump-game-iii](https://github.com/jxt1nn/dsa-log/tree/master/1306-jump-game-iii) |
 | [1326-minimum-number-of-taps-to-open-to-water-a-garden](https://github.com/jxt1nn/dsa-log/tree/master/1326-minimum-number-of-taps-to-open-to-water-a-garden) |
+| [1331-rank-transform-of-an-array](https://github.com/jxt1nn/dsa-log/tree/master/1331-rank-transform-of-an-array) |
 | [1340-jump-game-v](https://github.com/jxt1nn/dsa-log/tree/master/1340-jump-game-v) |
 | [1345-jump-game-iv](https://github.com/jxt1nn/dsa-log/tree/master/1345-jump-game-iv) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/jxt1nn/dsa-log/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
@@ -276,6 +277,7 @@ A collection of DSA problems that made me question my life choices. Includes my 
 | [0721-accounts-merge](https://github.com/jxt1nn/dsa-log/tree/master/0721-accounts-merge) |
 | [1094-car-pooling](https://github.com/jxt1nn/dsa-log/tree/master/1094-car-pooling) |
 | [1288-remove-covered-intervals](https://github.com/jxt1nn/dsa-log/tree/master/1288-remove-covered-intervals) |
+| [1331-rank-transform-of-an-array](https://github.com/jxt1nn/dsa-log/tree/master/1331-rank-transform-of-an-array) |
 | [1340-jump-game-v](https://github.com/jxt1nn/dsa-log/tree/master/1340-jump-game-v) |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/jxt1nn/dsa-log/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/jxt1nn/dsa-log/tree/master/1727-largest-submatrix-with-rearrangements) |
@@ -568,6 +570,7 @@ A collection of DSA problems that made me question my life choices. Includes my 
 | [0874-walking-robot-simulation](https://github.com/jxt1nn/dsa-log/tree/master/0874-walking-robot-simulation) |
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/jxt1nn/dsa-log/tree/master/0947-most-stones-removed-with-same-row-or-column) |
 | [1189-maximum-number-of-balloons](https://github.com/jxt1nn/dsa-log/tree/master/1189-maximum-number-of-balloons) |
+| [1331-rank-transform-of-an-array](https://github.com/jxt1nn/dsa-log/tree/master/1331-rank-transform-of-an-array) |
 | [1345-jump-game-iv](https://github.com/jxt1nn/dsa-log/tree/master/1345-jump-game-iv) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/jxt1nn/dsa-log/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/jxt1nn/dsa-log/tree/master/1674-minimum-moves-to-make-array-complementary) |
