@@ -487,6 +487,7 @@ A collection of DSA problems that made me question my life choices. Includes my 
 ## Enumeration
 |  |
 | ------- |
+| [1291-sequential-digits](https://github.com/jxt1nn/dsa-log/tree/master/1291-sequential-digits) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/jxt1nn/dsa-log/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3546-equal-sum-grid-partition-i](https://github.com/jxt1nn/dsa-log/tree/master/3546-equal-sum-grid-partition-i) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/jxt1nn/dsa-log/tree/master/3751-total-waviness-of-numbers-in-range-i) |
