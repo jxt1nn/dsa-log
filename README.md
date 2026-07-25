@@ -302,6 +302,7 @@ A collection of DSA problems that made me question my life choices. Includes my 
 | [2784-check-if-array-is-good](https://github.com/jxt1nn/dsa-log/tree/master/2784-check-if-array-is-good) |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/jxt1nn/dsa-log/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/jxt1nn/dsa-log/tree/master/3534-path-existence-queries-in-a-graph-ii) |
+| [3536-maximum-product-of-two-digits](https://github.com/jxt1nn/dsa-log/tree/master/3536-maximum-product-of-two-digits) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/jxt1nn/dsa-log/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/jxt1nn/dsa-log/tree/master/3661-maximum-walls-destroyed-by-robots) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/jxt1nn/dsa-log/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -325,6 +326,7 @@ A collection of DSA problems that made me question my life choices. Includes my 
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/jxt1nn/dsa-log/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/jxt1nn/dsa-log/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/jxt1nn/dsa-log/tree/master/3513-number-of-unique-xor-triplets-i) |
+| [3536-maximum-product-of-two-digits](https://github.com/jxt1nn/dsa-log/tree/master/3536-maximum-product-of-two-digits) |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/jxt1nn/dsa-log/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/jxt1nn/dsa-log/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/jxt1nn/dsa-log/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
