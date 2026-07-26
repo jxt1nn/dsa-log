@@ -136,6 +136,7 @@ A collection of DSA problems that made me question my life choices. Includes my 
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/jxt1nn/dsa-log/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0455-assign-cookies](https://github.com/jxt1nn/dsa-log/tree/master/0455-assign-cookies) |
 | [0542-01-matrix](https://github.com/jxt1nn/dsa-log/tree/master/0542-01-matrix) |
+| [0628-maximum-product-of-three-numbers](https://github.com/jxt1nn/dsa-log/tree/master/0628-maximum-product-of-three-numbers) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/jxt1nn/dsa-log/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [0721-accounts-merge](https://github.com/jxt1nn/dsa-log/tree/master/0721-accounts-merge) |
 | [0778-swim-in-rising-water](https://github.com/jxt1nn/dsa-log/tree/master/0778-swim-in-rising-water) |
@@ -283,6 +284,7 @@ A collection of DSA problems that made me question my life choices. Includes my 
 | [0056-merge-intervals](https://github.com/jxt1nn/dsa-log/tree/master/0056-merge-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/jxt1nn/dsa-log/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0455-assign-cookies](https://github.com/jxt1nn/dsa-log/tree/master/0455-assign-cookies) |
+| [0628-maximum-product-of-three-numbers](https://github.com/jxt1nn/dsa-log/tree/master/0628-maximum-product-of-three-numbers) |
 | [0721-accounts-merge](https://github.com/jxt1nn/dsa-log/tree/master/0721-accounts-merge) |
 | [1094-car-pooling](https://github.com/jxt1nn/dsa-log/tree/master/1094-car-pooling) |
 | [1288-remove-covered-intervals](https://github.com/jxt1nn/dsa-log/tree/master/1288-remove-covered-intervals) |
@@ -311,6 +313,7 @@ A collection of DSA problems that made me question my life choices. Includes my 
 | ------- |
 | [0048-rotate-image](https://github.com/jxt1nn/dsa-log/tree/master/0048-rotate-image) |
 | [0396-rotate-function](https://github.com/jxt1nn/dsa-log/tree/master/0396-rotate-function) |
+| [0628-maximum-product-of-three-numbers](https://github.com/jxt1nn/dsa-log/tree/master/0628-maximum-product-of-three-numbers) |
 | [0788-rotated-digits](https://github.com/jxt1nn/dsa-log/tree/master/0788-rotated-digits) |
 | [0877-stone-game](https://github.com/jxt1nn/dsa-log/tree/master/0877-stone-game) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/jxt1nn/dsa-log/tree/master/1344-angle-between-hands-of-a-clock) |
