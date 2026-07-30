@@ -327,6 +327,7 @@ A collection of DSA problems that made me question my life choices. Includes my 
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/jxt1nn/dsa-log/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2849-determine-if-a-cell-is-reachable-at-a-given-time](https://github.com/jxt1nn/dsa-log/tree/master/2849-determine-if-a-cell-is-reachable-at-a-given-time) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/jxt1nn/dsa-log/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/jxt1nn/dsa-log/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/jxt1nn/dsa-log/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/jxt1nn/dsa-log/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/jxt1nn/dsa-log/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
@@ -367,6 +368,7 @@ A collection of DSA problems that made me question my life choices. Includes my 
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/jxt1nn/dsa-log/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/jxt1nn/dsa-log/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2126-destroying-asteroids](https://github.com/jxt1nn/dsa-log/tree/master/2126-destroying-asteroids) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/jxt1nn/dsa-log/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/jxt1nn/dsa-log/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/jxt1nn/dsa-log/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/jxt1nn/dsa-log/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
@@ -415,6 +417,7 @@ A collection of DSA problems that made me question my life choices. Includes my 
 | [2452-words-within-two-edits-of-dictionary](https://github.com/jxt1nn/dsa-log/tree/master/2452-words-within-two-edits-of-dictionary) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/jxt1nn/dsa-log/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
 | [2833-furthest-point-from-origin](https://github.com/jxt1nn/dsa-log/tree/master/2833-furthest-point-from-origin) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/jxt1nn/dsa-log/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/jxt1nn/dsa-log/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/jxt1nn/dsa-log/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/jxt1nn/dsa-log/tree/master/3121-count-the-number-of-special-characters-ii) |
