@@ -238,6 +238,7 @@ A collection of DSA problems that made me question my life choices. Includes my 
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/jxt1nn/dsa-log/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
 | [3838-weighted-word-mapping](https://github.com/jxt1nn/dsa-log/tree/master/3838-weighted-word-mapping) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/jxt1nn/dsa-log/tree/master/3867-sum-of-gcd-of-formed-pairs) |
+| [3875-construct-uniform-parity-array-i](https://github.com/jxt1nn/dsa-log/tree/master/3875-construct-uniform-parity-array-i) |
 ## Two Pointers
 |  |
 | ------- |
@@ -346,6 +347,7 @@ A collection of DSA problems that made me question my life choices. Includes my 
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/jxt1nn/dsa-log/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
 | [3783-mirror-distance-of-an-integer](https://github.com/jxt1nn/dsa-log/tree/master/3783-mirror-distance-of-an-integer) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/jxt1nn/dsa-log/tree/master/3867-sum-of-gcd-of-formed-pairs) |
+| [3875-construct-uniform-parity-array-i](https://github.com/jxt1nn/dsa-log/tree/master/3875-construct-uniform-parity-array-i) |
 ## Game Theory
 |  |
 | ------- |
