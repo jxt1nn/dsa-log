@@ -105,6 +105,7 @@ A collection of DSA problems that made me question my life choices. Includes my 
 | [3737-count-subarrays-with-majority-element-i](https://github.com/jxt1nn/dsa-log/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/jxt1nn/dsa-log/tree/master/3739-count-subarrays-with-majority-element-ii) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/jxt1nn/dsa-log/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
+| [3904-smallest-stable-index-ii](https://github.com/jxt1nn/dsa-log/tree/master/3904-smallest-stable-index-ii) |
 ## Array
 |  |
 | ------- |
@@ -239,6 +240,7 @@ A collection of DSA problems that made me question my life choices. Includes my 
 | [3838-weighted-word-mapping](https://github.com/jxt1nn/dsa-log/tree/master/3838-weighted-word-mapping) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/jxt1nn/dsa-log/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [3875-construct-uniform-parity-array-i](https://github.com/jxt1nn/dsa-log/tree/master/3875-construct-uniform-parity-array-i) |
+| [3904-smallest-stable-index-ii](https://github.com/jxt1nn/dsa-log/tree/master/3904-smallest-stable-index-ii) |
 ## Two Pointers
 |  |
 | ------- |
