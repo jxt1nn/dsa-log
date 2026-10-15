@@ -201,6 +201,7 @@ A collection of DSA problems that made me question my life choices. Includes my 
 | [2848-points-that-intersect-with-cars](https://github.com/jxt1nn/dsa-log/tree/master/2848-points-that-intersect-with-cars) |
 | [2850-minimum-moves-to-spread-stones-over-grid](https://github.com/jxt1nn/dsa-log/tree/master/2850-minimum-moves-to-spread-stones-over-grid) |
 | [2906-construct-product-matrix](https://github.com/jxt1nn/dsa-log/tree/master/2906-construct-product-matrix) |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/jxt1nn/dsa-log/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/jxt1nn/dsa-log/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/jxt1nn/dsa-log/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3033-modify-the-matrix](https://github.com/jxt1nn/dsa-log/tree/master/3033-modify-the-matrix) |
@@ -480,6 +481,7 @@ A collection of DSA problems that made me question my life choices. Includes my 
 |  |
 | ------- |
 | [1622-fancy-sequence](https://github.com/jxt1nn/dsa-log/tree/master/1622-fancy-sequence) |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/jxt1nn/dsa-log/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/jxt1nn/dsa-log/tree/master/3501-maximize-active-section-with-trade-ii) |
 | [3691-maximum-total-subarray-value-ii](https://github.com/jxt1nn/dsa-log/tree/master/3691-maximum-total-subarray-value-ii) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/jxt1nn/dsa-log/tree/master/3737-count-subarrays-with-majority-element-i) |
@@ -639,6 +641,7 @@ A collection of DSA problems that made me question my life choices. Includes my 
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/jxt1nn/dsa-log/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [2784-check-if-array-is-good](https://github.com/jxt1nn/dsa-log/tree/master/2784-check-if-array-is-good) |
 | [2848-points-that-intersect-with-cars](https://github.com/jxt1nn/dsa-log/tree/master/2848-points-that-intersect-with-cars) |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/jxt1nn/dsa-log/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/jxt1nn/dsa-log/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/jxt1nn/dsa-log/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/jxt1nn/dsa-log/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
@@ -860,4 +863,8 @@ A collection of DSA problems that made me question my life choices. Includes my 
 | ------- |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/jxt1nn/dsa-log/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/jxt1nn/dsa-log/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/jxt1nn/dsa-log/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 <!---LeetCode Topics End-->
