@@ -244,6 +244,7 @@ A collection of DSA problems that made me question my life choices. Includes my 
 | [3838-weighted-word-mapping](https://github.com/jxt1nn/dsa-log/tree/master/3838-weighted-word-mapping) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/jxt1nn/dsa-log/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [3875-construct-uniform-parity-array-i](https://github.com/jxt1nn/dsa-log/tree/master/3875-construct-uniform-parity-array-i) |
+| [3886-sum-of-sortable-integers](https://github.com/jxt1nn/dsa-log/tree/master/3886-sum-of-sortable-integers) |
 | [3904-smallest-stable-index-ii](https://github.com/jxt1nn/dsa-log/tree/master/3904-smallest-stable-index-ii) |
 ## Two Pointers
 |  |
@@ -321,6 +322,7 @@ A collection of DSA problems that made me question my life choices. Includes my 
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/jxt1nn/dsa-log/tree/master/3661-maximum-walls-destroyed-by-robots) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/jxt1nn/dsa-log/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/jxt1nn/dsa-log/tree/master/3867-sum-of-gcd-of-formed-pairs) |
+| [3886-sum-of-sortable-integers](https://github.com/jxt1nn/dsa-log/tree/master/3886-sum-of-sortable-integers) |
 ## Math
 |  |
 | ------- |
@@ -358,6 +360,7 @@ A collection of DSA problems that made me question my life choices. Includes my 
 | [3783-mirror-distance-of-an-integer](https://github.com/jxt1nn/dsa-log/tree/master/3783-mirror-distance-of-an-integer) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/jxt1nn/dsa-log/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [3875-construct-uniform-parity-array-i](https://github.com/jxt1nn/dsa-log/tree/master/3875-construct-uniform-parity-array-i) |
+| [3886-sum-of-sortable-integers](https://github.com/jxt1nn/dsa-log/tree/master/3886-sum-of-sortable-integers) |
 ## Game Theory
 |  |
 | ------- |
@@ -551,6 +554,7 @@ A collection of DSA problems that made me question my life choices. Includes my 
 | [3499-maximize-active-section-with-trade-i](https://github.com/jxt1nn/dsa-log/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3546-equal-sum-grid-partition-i](https://github.com/jxt1nn/dsa-log/tree/master/3546-equal-sum-grid-partition-i) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/jxt1nn/dsa-log/tree/master/3751-total-waviness-of-numbers-in-range-i) |
+| [3886-sum-of-sortable-integers](https://github.com/jxt1nn/dsa-log/tree/master/3886-sum-of-sortable-integers) |
 ## Simulation
 |  |
 | ------- |
