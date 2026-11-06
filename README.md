@@ -197,6 +197,7 @@ A collection of DSA problems that made me question my life choices. Includes my 
 | [2596-check-knight-tour-configuration](https://github.com/jxt1nn/dsa-log/tree/master/2596-check-knight-tour-configuration) |
 | [2615-sum-of-distances](https://github.com/jxt1nn/dsa-log/tree/master/2615-sum-of-distances) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/jxt1nn/dsa-log/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
+| [2747-count-zero-request-servers](https://github.com/jxt1nn/dsa-log/tree/master/2747-count-zero-request-servers) |
 | [2751-robot-collisions](https://github.com/jxt1nn/dsa-log/tree/master/2751-robot-collisions) |
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/jxt1nn/dsa-log/tree/master/2770-maximum-number-of-jumps-to-reach-the-last-index) |
 | [2784-check-if-array-is-good](https://github.com/jxt1nn/dsa-log/tree/master/2784-check-if-array-is-good) |
@@ -315,6 +316,7 @@ A collection of DSA problems that made me question my life choices. Includes my 
 | [2126-destroying-asteroids](https://github.com/jxt1nn/dsa-log/tree/master/2126-destroying-asteroids) |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/jxt1nn/dsa-log/tree/master/2300-successful-pairs-of-spells-and-potions) |
 | [2463-minimum-total-distance-traveled](https://github.com/jxt1nn/dsa-log/tree/master/2463-minimum-total-distance-traveled) |
+| [2747-count-zero-request-servers](https://github.com/jxt1nn/dsa-log/tree/master/2747-count-zero-request-servers) |
 | [2751-robot-collisions](https://github.com/jxt1nn/dsa-log/tree/master/2751-robot-collisions) |
 | [2784-check-if-array-is-good](https://github.com/jxt1nn/dsa-log/tree/master/2784-check-if-array-is-good) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/jxt1nn/dsa-log/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -632,6 +634,7 @@ A collection of DSA problems that made me question my life choices. Includes my 
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/jxt1nn/dsa-log/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1871-jump-game-vii](https://github.com/jxt1nn/dsa-log/tree/master/1871-jump-game-vii) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/jxt1nn/dsa-log/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
+| [2747-count-zero-request-servers](https://github.com/jxt1nn/dsa-log/tree/master/2747-count-zero-request-servers) |
 ## Hash Table
 |  |
 | ------- |
@@ -652,6 +655,7 @@ A collection of DSA problems that made me question my life choices. Includes my 
 | [2540-minimum-common-value](https://github.com/jxt1nn/dsa-log/tree/master/2540-minimum-common-value) |
 | [2615-sum-of-distances](https://github.com/jxt1nn/dsa-log/tree/master/2615-sum-of-distances) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/jxt1nn/dsa-log/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
+| [2747-count-zero-request-servers](https://github.com/jxt1nn/dsa-log/tree/master/2747-count-zero-request-servers) |
 | [2784-check-if-array-is-good](https://github.com/jxt1nn/dsa-log/tree/master/2784-check-if-array-is-good) |
 | [2848-points-that-intersect-with-cars](https://github.com/jxt1nn/dsa-log/tree/master/2848-points-that-intersect-with-cars) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/jxt1nn/dsa-log/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
