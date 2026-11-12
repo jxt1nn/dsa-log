@@ -213,6 +213,7 @@ A collection of DSA problems that made me question my life choices. Includes my 
 | [3034-number-of-subarrays-that-match-a-pattern-i](https://github.com/jxt1nn/dsa-log/tree/master/3034-number-of-subarrays-that-match-a-pattern-i) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/jxt1nn/dsa-log/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/jxt1nn/dsa-log/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
+| [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/jxt1nn/dsa-log/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3225-maximum-score-from-grid-operations](https://github.com/jxt1nn/dsa-log/tree/master/3225-maximum-score-from-grid-operations) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/jxt1nn/dsa-log/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/jxt1nn/dsa-log/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
